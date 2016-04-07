@@ -1,8 +1,9 @@
 Buenas tardes !!
 
-Bienvenidos a la sesiÛn de hoy, jueves 7 de abril de 2016. Ya estamos en primavera, disfrutad del buen tiempo.
-Empecemos la sesiÛn.
+Bienvenidos a la sesi√≥n de hoy, jueves 7 de abril de 2016. Ya estamos en primavera, disfrutad del buen tiempo.
+Empecemos la sesi√≥n.
 Ya estamos trabajando con GIT.
 Vamos a trabajar todos juntos en este fichero.
-Cambiaremos lÌneas o palabras para ver quÈ conflictos surgen.
-Como estamos trabajando todos en el mismo minuto seguro que ocurren.
+Cambiaremos l√≠neas o palabras para ver qu√© conflictos surgen.
+Como estamos trabajando todos en el mismo minuto seguro que no ocurren.
+Me parece que s√≠.
