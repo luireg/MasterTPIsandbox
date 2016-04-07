@@ -13,4 +13,7 @@ Vamos a trabajar todos juntos en este fichero.
 Cambiaremos líneas o palabras para ver qué conflictos surgen.
 Como estamos trabajando todos en el mismo minuto seguro que no ocurren.
 Me parece que sí.
->>>>>>> 7e4e68a26e43d58d50c9ad81943ed4f45f371d6c
+>>>>>>> 7e4e68a26e43d58d50c9ad81943ed4f45f371d
+
+Buenas tardes, estos programas son muy �tiles. 
+Seguro que les sacamos mucho partido. 
