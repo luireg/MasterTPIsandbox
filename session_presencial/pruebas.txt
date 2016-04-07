@@ -2,4 +2,12 @@ Buenas tardes !!
 
 Bienvenidos a la sesión de hoy, jueves 7 de abril de 2016. Ya estamos en primavera, disfrutad del buen tiempo.
 Empecemos la sesión.
+<<<<<<< HEAD
 vamos a probar este sistema 
+=======
+Ya estamos trabajando con GIT.
+Vamos a trabajar todos juntos en este nuevo fichero.
+Cambiaremos líneas o palabras para ver qué conflictos surgen.
+Como estamos trabajando todos en el mismo minuto seguro que ocurren.
+Me parece que sí.
+>>>>>>> 1c930099c5e897c70a094c5cc41b2d14ee9e020d
