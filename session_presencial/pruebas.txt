@@ -1,6 +1,6 @@
 Buenas tardes !!
 
-Bienvenidos a la sesión de hoy, viernes 8 de junio de 2016. Ya estamos en primavera, disfrutad del buen tiempo.
+Bienvenidos a la sesión de hoy, viernes 8 de junio de 2016. Ya estamos en primavera, pero hace mal tiempo, disfrutad del buen tiempo.
 Empecemos la sesión.
 Ya no estamos trabajando con GIT.
 Vamos a trabajar todos juntos en este completo fichero.
