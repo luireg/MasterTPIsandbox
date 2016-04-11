@@ -12,7 +12,7 @@ class people {
     public $smith = "Smith";
 	public $steve = "Steve Jobs";
 }
-$people = new people();
+$people = new people("Steve Jobs");
 
 
 
@@ -32,3 +32,4 @@ echo 'The bitten $juices[0] is the symbol of the company of $people->steve' ;
 </p>
 </body>
 </html>
+
