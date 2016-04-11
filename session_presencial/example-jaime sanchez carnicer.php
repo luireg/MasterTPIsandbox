@@ -21,6 +21,6 @@ echo "Don $people->john bebió un zumo de $juices[0].".PHP_EOL;
 
 // arreglar la siguiente sentencia.
 
-echo ''The bitten $juices[0] is the icon of the company of $people->steve'';
+echo "The bitten $juices[0] is the icon of the company of $people->steve";
 
 ?>
