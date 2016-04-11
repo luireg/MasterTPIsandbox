@@ -1,12 +1,12 @@
 <?php
-$juices = array("manzana", "naranga", "koolaid1" => "purple");
+$juices = array("apple", "naranga", "koolaid1" => "purple");
 
 class people {
     public $john = "John Smith";
     public $jane = "Jane Smith";
     public $robert = "Robert Paulsen";
     public $smith = "Smith";
-	public $steve = "Steve";
+	public $steve = "Steve Jobs";
 }
 $people = new people();
 
@@ -21,6 +21,6 @@ echo "Don $people->john bebió un zumo de $juices[0].".PHP_EOL;
 
 // arreglar la siguiente sentencia.
 
-echo 'La $juices[0] mordida es el símbolo de la compañía de $people->steve';
+echo "The bitten $juices[0] is the icon of the company of $people->steve";
 
 ?>
