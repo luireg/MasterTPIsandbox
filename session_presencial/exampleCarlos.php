@@ -6,7 +6,7 @@ class people {
     public $jane = "Jane Smith";
     public $robert = "Robert Paulsen";
     public $smith = "Smith";
-	public $steve = "Steve Jobs";
+	public $steve = "Steve";
 }
 $people = new people();
 
@@ -21,6 +21,6 @@ echo "Don $people->john bebió un zumo de $juices[0].".PHP_EOL;
 
 // arreglar la siguiente sentencia.
 
-echo "La $juices[0] mordida es el símbolo de la compañía de $people->steve";
+echo 'La $juices[0] mordida es el símbolo de la compañía de $people->steve';
 
 ?>

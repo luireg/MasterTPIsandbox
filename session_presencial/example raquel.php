@@ -1,3 +1,7 @@
+<html>
+<body>
+<h1>Practica</h1>
+<p>
 <?php
 $juices = array("manzana", "naranga", "koolaid1" => "purple");
 
@@ -6,7 +10,7 @@ class people {
     public $jane = "Jane Smith";
     public $robert = "Robert Paulsen";
     public $smith = "Smith";
-	public $steve = "Steve Jobs";
+	public $steve = "Steve";
 }
 $people = new people();
 
@@ -24,3 +28,5 @@ echo "Don $people->john bebió un zumo de $juices[0].".PHP_EOL;
 echo "La $juices[0] mordida es el símbolo de la compañía de $people->steve";
 
 ?>
+
+</p></body>
