@@ -3,7 +3,7 @@
 Versión de Rocio: 
 <p>
 <?php
-$juices = array("manzana", "naranga", "koolaid1" => "manzana");
+$juices = array("manzana", "naranga", "koolaid1" => "purple");
 
 class people {
     public $john = "John Smith";
@@ -25,11 +25,8 @@ echo "Don $people->john bebió un zumo de $juices[0].".PHP_EOL;
 
 // arreglar la siguiente sentencia.
 
-echo "The bitten $juices[0] is the symbol of the company of $people->steve"; .PHP_EOL;
+echo "The bitten $juices[0] is the symbol of the company of $people->steve";
 
 ?>
 
-</p>
-</body>
-</html>
 
