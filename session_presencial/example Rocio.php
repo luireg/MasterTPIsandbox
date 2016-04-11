@@ -3,7 +3,7 @@
 Versión de Rocio: 
 <p>
 <?php
-$juices = array("manzana", "naranga", "koolaid1" => "purple");
+$juices = array("manzana", "naranga", "koolaid1" => "manzana");
 
 class people {
     public $john = "John Smith";
