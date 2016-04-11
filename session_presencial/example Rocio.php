@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Practica</h1>
+Versión de Rocio: 
 <p>
 <?php
 $juices = array("manzana", "naranga", "koolaid1" => "purple");
@@ -25,8 +25,9 @@ echo "Don $people->john bebió un zumo de $juices[0].".PHP_EOL;
 
 // arreglar la siguiente sentencia.
 
-echo "La $juices[0] mordida es el símbolo de la compañía de $people->steve";
+echo 'La $juices[0] mordida es el símbolo de la compañía de $people->steve';
 
 ?>
-
-</p></body>
+</p>
+</body>
+</html>
