@@ -16,7 +16,7 @@ $a->user_surname="Gundisalvo";
 echo getString('pageTitle',$a);
 ?></title></head>
 <body>
-<p><a target="_blank" href="/tradadmin">Pulsa aquí para copiar el código PHP desde el SVN al servidor.</a> Hay que hacerlo después de subir los cambios con 'commit'.</p>
+<p><a target="_blank" href="/tradadmin">Pulsa aquí para copiar el código PHP desde el SVN al servidor.</a> Hay que hacerlo después de subir los cambios con 'push'.</p>
 
 <table border="1">
 
