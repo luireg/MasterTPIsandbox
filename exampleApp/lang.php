@@ -2,17 +2,17 @@
 $string['pageTitle']	=	'Bienvenidos a la página de traducción de PHP';
 
 
-$string['trad0Greeting'] =	'Bienvenido al trabajo del traductor $a->numTrad publicado a las $a->time';
-$string['trad0Author'] = 'Este texto ha sido redactado por Juan Pablo de Castro';
-$string['trad0FormatDate'] = 'Hoy es ".strftime("%A ,%d de %B de %Y",$a->rawTime)." y ya empieza la semana.';
-$string['trad0NumString'] = 'Completar una colección de cromos de la liga cuesta $a->amount €';
-$string['trad0CurrencyString'] = 'Completar una colección de cromos de la liga cuesta".number_format($a->amount,2)." euros.';
-$string['trad0Message'] = 'Podría haberlo hecho otro, pero el señor $a->user_surname lo ha vuelto a conseguir. ¡Viva $a->user_name $a->user_surname!';
-$string['Head_trad0Credits']	= '(C)".strftime("%Y")." Juan Pablo de Castro Fernández';
-$string['Head_trad0FlagURL'] = 'http://www.banderas-del-mundo.com/Espana/con_escudo/spain_lc.gif';
-$string['trad0ejemploUno'] = '';
-$string['trad0ejemploDos'] = '';
-$string['trad0ejemploTres'] = '';
+$string['trad00Greeting'] =	'Bienvenido al trabajo del traductor $a->numTrad publicado a las $a->time';
+$string['trad00Author'] = 'Este texto ha sido redactado por Juan Pablo de Castro';
+$string['trad00FormatDate'] = 'Hoy es ".strftime("%A ,%d de %B de %Y",$a->rawTime)." y ya empieza la semana.';
+$string['trad00NumString'] = 'Completar una colección de cromos de la liga cuesta $a->amount €';
+$string['trad00CurrencyString'] = 'Completar una colección de cromos de la liga cuesta".number_format($a->amount,2)." euros.';
+$string['trad00Message'] = 'Podría haberlo hecho otro, pero el señor $a->user_surname lo ha vuelto a conseguir. ¡Viva $a->user_name $a->user_surname!';
+$string['Head_trad00Credits']	= '(C)".strftime("%Y")." Juan Pablo de Castro Fernández';
+$string['Head_trad00FlagURL'] = 'http://www.banderas-del-mundo.com/Espana/con_escudo/spain_lc.gif';
+$string['trad00ejemploUno'] = '';
+$string['trad00ejemploDos'] = '';
+$string['trad00ejemploTres'] = '';
 /**
  * Crear todas las claves de arriba de forma ordenada y sin estropear el trabajo de los demás compañeros.
  * Está permitido cambiar los textos libremente y experimentar con formas alternativas de conseguir los mismos objetivos.
