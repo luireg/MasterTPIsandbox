@@ -18,7 +18,7 @@ $string['trad0ejemploTres'] = '';
  * Está permitido cambiar los textos libremente y experimentar con formas alternativas de conseguir los mismos objetivos.
  * Cuidado con cometer fallos de síntaxis pues se estropeará todo el fichero y no se verá el resultado en la Web.
  */
-$string['trad1Greeting'] =	'';
+$string['trad1Greeting'] =	'Welcome to the translator work $a->numTrad published at $a->time';';
 $string['trad1Author'] = '';
 $string['trad1FormatDate'] = '';
 $string['trad1NumString'] = '';
