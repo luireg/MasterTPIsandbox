@@ -104,15 +104,15 @@ $string['trad07ejemploTres'] = '';
 
 $string['trad08Greeting'] =	'Welcome to the work of translator $a->numTrad published at $a->time';
 $string['trad08Author'] = 'This text has been written by Jaime Sánchez Carnicer';
-$string['trad08FormatDate'] = 'Today is ".strftime("%A, %d de %B de %Y",$a->rawTime)." and the week has already started.';
+$string['trad08FormatDate'] = 'Today is ".strftime("%A, %d %B %Y",$a->rawTime)." and the week has already started.';
 $string['trad08NumString'] = 'To complete a collection of trading cards of the Spanish league costs £ $a->amount';
 $string['trad08CurrencyString'] = 'To complete a collection of trading cards of the Spanish league costs ".number_format($a->amount,2)." pounds.';
 $string['trad08Message'] = 'Someone could have donde it, but Mr. $a->user_surname did it again. ¡Long life to $a->user_name $a->user_surname!';
 $string['Head_trad08Credits']	= '(C)".strftime("%Y")." Jaime Sánchez Carnicer';
 $string['Head_trad08FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/super/inglesa.gif';
-$string['trad08ejemploUno'] = 'In the ".strftime("%C",$a->rawTime)." Spain won the World Cup';
-$string['trad08ejemploDos'] = '';
-$string['trad08ejemploTres'] = '';
+$string['trad08ejemploUno'] = 'In the ".strftime("%Y",$a->rawTime)." Spain will win the European Championship.';
+$string['trad08ejemploDos'] = '$a->user_name paid £ $a->amount to $a->user_surname in order to paint his house.';
+$string['trad08ejemploTres'] = 'Today, at ".strftime("%X" $a->rawTime)." we are in a lesson of l10n';
 
 $string['trad09Greeting'] =	'';
 $string['trad09Author'] = '';
