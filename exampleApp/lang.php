@@ -67,7 +67,7 @@ $string['trad04ejemploDos'] = '';
 $string['trad04ejemploTres'] = '';
 
 $string['trad05Greeting'] =	'Welcome to the traductor´s work $a->numTrad publish at $a->time';
-$string['trad05Author'] = 'Este texto ha sido redactado por Juan Pablo de Castro';
+$string['trad05Author'] = 'This text was written by Raquel Cardoso Montero';
 $string['trad05FormatDate'] = 'Hoy es ".strftime("%A ,%d de %B de %Y",$a->rawTime)." y ya empieza la semana.';
 $string['trad05NumString'] = 'Completar una colección de cromos de la liga cuesta $a->amount €';
 $string['trad05CurrencyString'] = 'Completar una colección de cromos de la liga cuesta".number_format($a->amount,2)." euros.';
