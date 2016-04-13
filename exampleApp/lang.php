@@ -22,11 +22,11 @@ $string['trad01Greeting'] =	'Welcome to the work of the translator $a->numTrad p
 $string['trad01Author'] = 'This text has been written by Beatriz Martínez Montagut';
 $string['trad01FormatDate'] = 'Today is ".strftime("%A ,%d de %B de %Y",$a->rawTime)." and the week is already started.';
 $string['trad01NumString'] = 'To complete a collection of the Spanish league costs £ $a->amount';
-$string['trad01CurrencyString'] = 'To complete a collection of the Spanish league costs".number_format($a->amount,2)." pounds.';
+$string['trad01CurrencyString'] = 'To complete a collection of the Spanish league costs ".number_format($a->amount,2)." pounds.';
 $string['trad01Message'] = 'Someone could have done it, but mister $a->user_surname has achieved again. ¡Long life $a->user_name $a->user_surname!';
 $string['Head_trad01Credits']	= '(C)".strftime("%Y")." Beatriz Martínez Montagut';
 $string['Head_trad01FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/super/inglesa.gif';
-$string['trad01ejemploUno'] = 'The little girl arrived at $timestamp';
+$string['trad01ejemploUno'] = 'The little girl arrived at ';
 $string['trad01ejemploDos'] = 'The reader is $a->user_surname';
 $string['trad01ejemploTres'] = '';
 
