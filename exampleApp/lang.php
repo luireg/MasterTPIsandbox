@@ -78,16 +78,16 @@ $string['trad05ejemploUno'] = '';
 $string['trad05ejemploDos'] = '';
 $string['trad05ejemploTres'] = '';
 
-$string['trad06Greeting'] =	'';
-$string['trad06Author'] = '';
-$string['trad06FormatDate'] = '';
-$string['trad06NumString'] = '';
-$string['trad06CurrencyString'] = '';
-$string['trad06Message'] = '';
-$string['Head_trad06Credits']	= '';
-$string['Head_trad06FlagURL'] = '';
-$string['trad06ejemploUno'] = '';
-$string['trad06ejemploDos'] = '';
+$string['trad06Greeting'] =	'Welcom to the work of translator $a->numTrad published at $a->time';
+$string['trad06Author'] = 'This text was written by Wenqi Luan';
+$string['trad06FormatDate'] = 'Today is ".strftime("%A ,%d de %B de %Y",$a->rawTime)." and is already started the week.';
+$string['trad06NumString'] = 'To complete a collection of trading cards of the Spanish league cuest $a->amount ₤';
+$string['trad06CurrencyString'] = 'To complete a collection of trading cards of the Spanish league cuest".number_format($a->amount,2)." pounds.';
+$string['trad06Message'] = 'Someone could have done another, but Mr. $a->user_surname has achieved again. ¡Long life $a->user_name $a->user_surname!';
+$string['Head_trad06Credits']	= '(C)".strftime("%Y")." Wenqi Luan';
+$string['Head_trad06FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/super/inglesa.gif';
+$string['trad06ejemploUno'] = 'The collection of trading card can be obtained at date("l")';
+$string['trad06ejemploDos'] = 'The reader is $a->user_surname';
 $string['trad06ejemploTres'] = '';
 
 $string['trad07Greeting'] =	'';
