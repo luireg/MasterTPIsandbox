@@ -98,9 +98,9 @@ $string['trad07CurrencyString'] = 'To complete the trading card collection of th
 $string['trad07Message'] = 'It could have been done by another person, but Mr. $a->user_surname has achieved it again. Long life to $a->user_name $a->user_surname!';
 $string['Head_trad07Credits']	= '(C)".strftime("%Y")." Andrea Bernárdez López';
 $string['Head_trad07FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/great_britain_mwvvvv.gif';
-$string['trad07ejemploUno'] = 'The writer $a->user_surname has started the collection the ".strftime("%d %B %Y",$a->rawTime).';
+$string['trad07ejemploUno'] = 'The writer $a->user_surname has started the collection the ".strftime("%dth %B %Y",$a->rawTime)';
 $string['trad07ejemploDos'] = 'The translator $a->numTrad has paid £ $a->amount for the trading card collection.';
-$string['trad07ejemploTres'] = 'The "%m/%d/%y" the translator $a->numTrad and $a->user_surname have managed to finish the collection.';
+$string['trad07ejemploTres'] = 'The ".strftime("%m/%d/%y",$a->rawTime)" the translator $a->numTrad and $a->user_surname have managed to finish the collection.';
 
 $string['trad08Greeting'] =	'Welcome to the work of translator $a->numTrad published at $a->time';
 $string['trad08Author'] = 'This text has been written by Jaime Sánchez Carnicer';
