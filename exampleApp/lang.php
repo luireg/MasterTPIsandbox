@@ -63,7 +63,7 @@ $string['trad04Message'] = 'It could have been by another person, but Mr. $a->us
 $string['Head_trad04Credits'] = '(C)".strftime("%Y")." Rocío Barragán';
 $string['Head_trad04FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/inglaterra.gif';
 $string['trad04ejemploUno'] = 'Yet Mr. $a->user_surname wants to pay $a->amount €';
-$string['trad04ejemploDos'] = 'The soccer match will be ".strftime("%Y-%m-%d",->rawTime)." ';
+$string['trad04ejemploDos'] = 'The soccer match will be ".strftime("%A, %d de %B de %Y",$a->rawTime)  ';
 $string['trad04ejemploTres'] = '';
 
 $string['trad05Greeting'] =	'Welcome to the $a->numTrad traductor´s work publish at $a->time';
