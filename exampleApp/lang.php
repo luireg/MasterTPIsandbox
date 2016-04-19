@@ -112,7 +112,7 @@ $string['Head_trad08Credits']	= '(C)".strftime("%Y")." Jaime Sánchez Carnicer';
 $string['Head_trad08FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/super/inglesa.gif';
 $string['trad08ejemploUno'] = 'In the ".strftime("%Y",$a->rawTime)." Spain will win the European Championship.';
 $string['trad08ejemploDos'] = '$a->user_name paid £ $a->amount to $a->user_surname in order to paint his house.';
-$string['trad08ejemploTres'] = 'Today, at ".strftime("%X" $a->rawTime)." we are in a lesson of l10n';
+$string['trad08ejemploTres'] = 'Today, at ".strftime("%X", $a->Time)." we are in a lesson of l10n';
 
 $string['trad09Greeting'] =	'';
 $string['trad09Author'] = '';
