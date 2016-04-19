@@ -54,6 +54,7 @@ $string['trad03ejemploUno'] = '';
 $string['trad03ejemploDos'] = '';
 $string['trad03ejemploTres'] = '';
 
+<<<<<<< HEAD
 $string['trad4Greeting'] =	'Welcome to the translator work $a->numTrad published at $a->time';
 $string['trad4Author'] = 'This text has been written by Rocío Barragán';
 $string['trad4FormatDate'] = 'Today is ".strftime("%A, %d de %B de %Y",$a->rawTime)." and the week has already started.';
@@ -65,6 +66,19 @@ $string['Head_trad4FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/
 $string['trad4ejemploUno'] = 'Yet Mr. $a->user_surname wants to pay $a->amount € ';
 $string['trad4ejemploDos'] = '';
 $string['trad4ejemploTres'] = '';
+=======
+$string['trad04Greeting'] =	'Welcome to the translator work $a->numTrad published at $a->time';
+$string['trad04Author'] = '';
+$string['trad04FormatDate'] = '';
+$string['trad04NumString'] = '';
+$string['trad04CurrencyString'] = '';
+$string['trad04Message'] = '';
+$string['Head_trad04Credits'] = '';
+$string['Head_trad04FlagURL'] = '';
+$string['trad04ejemploUno'] = '';
+$string['trad04ejemploDos'] = '';
+$string['trad04ejemploTres'] = '';
+>>>>>>> 1e637e20f2e8ad3ab5be4e0ec78b06332418a24f
 
 $string['trad05Greeting'] =	'Welcome to the $a->numTrad traductor´s work publish at $a->time';
 $string['trad05Author'] = 'This text was written by Raquel Cardoso Montero';
@@ -72,11 +86,11 @@ $string['trad05FormatDate'] = 'Today is ".strftime("%A ,%d %B %Y",$a->rawTime)."
 $string['trad05NumString'] = 'To end a card collection of the league cost $a->amount €';
 $string['trad05CurrencyString'] = 'To end a card collection of the league cost ".number_format($a->amount,2)." euro.';
 $string['trad05Message'] = 'It could have been done by another person, but Mr. $a->user_surname has achieved it again. Congratulations $a->user_name $a->user_surname!';
-$string['Head_trad05Credits']	= '(C)".strftime("%Y")." Raquel Cardoso Montero';
+$string['Head_trad05Credits'] = '(C)".strftime("%Y")." Raquel Cardoso Montero';
 $string['Head_trad05FlagURL'] = 'https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Great-Britain_240-animated-flag-gifs.gif' ;
 $string['trad05ejemploUno'] = 'The client $a->user_surname pay $a->amount € to the translator.';
 $string['trad05ejemploDos'] = 'Spain will come out of the economical crisis in ".strftime("%Y",$a->rawTime)."';
-$string['trad05ejemploTres'] = '';
+$string['trad05ejemploTres'] = ' $a->user_surname university was founded in ".strftime("%Y",$a->rawTime)."';
 
 $string['trad06Greeting'] =	'Welcom to the work of translator $a->numTrad published at $a->time';
 $string['trad06Author'] = 'This text was written by Wenqi Luan';
@@ -98,9 +112,9 @@ $string['trad07CurrencyString'] = 'To complete the trading card collection of th
 $string['trad07Message'] = 'It could have been done by another person, but Mr. $a->user_surname has achieved it again. Long life to $a->user_name $a->user_surname!';
 $string['Head_trad07Credits']	= '(C)".strftime("%Y")." Andrea Bernárdez López';
 $string['Head_trad07FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/great_britain_mwvvvv.gif';
-$string['trad07ejemploUno'] = 'The writer $a->user_surname has started the collection the ".strftime("%d %B %Y",$a->rawTime).';
+$string['trad07ejemploUno'] = 'The writer $a->user_surname has started the collection the ".strftime("%dth %B %Y",$a->rawTime)."';
 $string['trad07ejemploDos'] = 'The translator $a->numTrad has paid £ $a->amount for the trading card collection.';
-$string['trad07ejemploTres'] = 'The "%m/%d/%y" the translator $a->numTrad and $a->user_surname have managed to finish the collection.';
+$string['trad07ejemploTres'] = 'The ".strftime("%m/%d/%y")" the translator $a->numTrad and $a->user_surname have managed to finish the collection.';
 
 $string['trad08Greeting'] =	'Welcome to the work of translator $a->numTrad published at $a->time';
 $string['trad08Author'] = 'This text has been written by Jaime Sánchez Carnicer';
@@ -112,7 +126,7 @@ $string['Head_trad08Credits']	= '(C)".strftime("%Y")." Jaime Sánchez Carnicer';
 $string['Head_trad08FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/super/inglesa.gif';
 $string['trad08ejemploUno'] = 'In the ".strftime("%Y",$a->rawTime)." Spain will win the European Championship.';
 $string['trad08ejemploDos'] = '$a->user_name paid £ $a->amount to $a->user_surname in order to paint his house.';
-$string['trad08ejemploTres'] = 'Today, at ".strftime("%X", $a->Time)." we are in a lesson of l10n';
+$string['trad08ejemploTres'] = 'Today, at $a->time we are in a lesson of l10n';
 
 $string['trad09Greeting'] =	'';
 $string['trad09Author'] = '';
