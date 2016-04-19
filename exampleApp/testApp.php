@@ -16,7 +16,7 @@ $a->user_surname="Gundisalvo";
 echo getString('pageTitle',$a);
 ?></title></head>
 <body>
-<p><a target="_blank" href="/tradadmin">Pulsa aquí para copiar el código PHP desde el SVN al servidor.</a> Hay que hacerlo después de subir los cambios con 'commit'.</p>
+<p><a target="_blank" href="/tradadmin">Pulsa aquí para copiar el código PHP desde el GIT al servidor.</a> Hay que hacerlo después de subir los cambios con 'commit & push'. </p>
 
 <table border="1">
 
@@ -70,7 +70,7 @@ function echo_trad_section($i,&$a)
 
 setlocale(LC_ALL, $loc);
 echo "<p>Locale: $loc";
-$tradid="trad".$i;
+$tradid="trad".str_pad($i,2,'0',STR_PAD_LEFT);
 $a->numTrad=$i;
 //$a->lang=locale
 echo 	'<IMG WIDTH="100" src="'.getString("Head_".$tradid."FlagURL",$a).'" align="LEFT"/>';
