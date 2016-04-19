@@ -87,7 +87,7 @@ $string['trad06Message'] = 'Someone could have done another, but Mr. $a->user_su
 $string['Head_trad06Credits']	= '(C)".strftime("%Y")." Wenqi Luan';
 $string['Head_trad06FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/super/inglesa.gif';
 $string['trad06ejemploUno'] = 'The girl arrived at $a->time.';
-$string['trad06ejemploDos'] = 'Her birthday is ".strftime("%b %d, %Y")';
+$string['trad06ejemploDos'] = 'Her birthday is ".strftime("%m/%d/%Y")."';
 $string['trad06ejemploTres'] = 'Ms. $a->user_surname is 30 years old';
 
 $string['trad07Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time';
