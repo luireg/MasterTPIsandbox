@@ -56,8 +56,8 @@ $string['trad03ejemploTres'] = '';
 
 <<<<<<< HEAD
 $string['trad4Greeting'] =	'Welcome to the translator work $a->numTrad published at $a->time';
-$string['trad4Author'] = '';
-$string['trad4FormatDate'] = '';
+$string['trad4Author'] = 'This text has been written by Rocío Barragán';
+$string['trad4FormatDate'] = 'Today is ".strftime("%A, %d de %B de %Y",$a->rawTime)." and the week has already started.';
 $string['trad4NumString'] = '';
 $string['trad4CurrencyString'] = '';
 $string['trad4Message'] = '';
