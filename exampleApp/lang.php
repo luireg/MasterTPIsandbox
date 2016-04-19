@@ -86,9 +86,9 @@ $string['trad06CurrencyString'] = 'To complete a collection of trading cards of 
 $string['trad06Message'] = 'Someone could have done another, but Mr. $a->user_surname has achieved again. ¡Long life $a->user_name $a->user_surname!';
 $string['Head_trad06Credits']	= '(C)".strftime("%Y")." Wenqi Luan';
 $string['Head_trad06FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/super/inglesa.gif';
-$string['trad06ejemploUno'] = '';
-$string['trad06ejemploDos'] = 'The reader is $a->user_surname';
-$string['trad06ejemploTres'] = '';
+$string['trad06ejemploUno'] = 'The girl arrived at $a->time.';
+$string['trad06ejemploDos'] = 'Her birthday is ".strftime("%b %d, %Y")';
+$string['trad06ejemploTres'] = 'Ms. $a->user_surname is 30 years old';
 
 $string['trad07Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time';
 $string['trad07Author'] = 'This text has been written by Andrea Bernárdez López.';
