@@ -54,19 +54,6 @@ $string['trad03ejemploUno'] = '';
 $string['trad03ejemploDos'] = '';
 $string['trad03ejemploTres'] = '';
 
-<<<<<<< HEAD
-$string['trad4Greeting'] =	'Welcome to the translator work $a->numTrad published at $a->time';
-$string['trad4Author'] = '';
-$string['trad4FormatDate'] = '.';
-$string['trad4NumString'] = '';
-$string['trad4CurrencyString'] = '';
-$string['trad4Message'] = '';
-$string['Head_trad4Credits']	= '';
-$string['Head_trad4FlagURL'] = '';
-$string['trad4ejemploUno'] = '';
-$string['trad4ejemploDos'] = '';
-$string['trad4ejemploTres'] = '';
-=======
 $string['trad04Greeting'] =	'Welcome to the translator work $a->numTrad published at $a->time';
 $string['trad04Author'] = 'This text has been written by Rocío Barragán';
 $string['trad04FormatDate'] = 'Today is ".strftime("%A, %d de %B de %Y",$a->rawTime)." and the week has already started.';
@@ -78,7 +65,6 @@ $string['Head_trad04FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea
 $string['trad04ejemploUno'] = 'Yet Mr. $a->user_surname wants to pay $a->amount €';
 $string['trad04ejemploDos'] = 'The soccer match will be ".strftime("%A, %d de %B de %Y",$a->rawTime)." ';
 $string['trad04ejemploTres'] = '';
->>>>>>> 1e637e20f2e8ad3ab5be4e0ec78b06332418a24f
 
 $string['trad05Greeting'] =	'Welcome to the $a->numTrad traductor´s work publish at $a->time';
 $string['trad05Author'] = 'This text was written by Raquel Cardoso Montero';
