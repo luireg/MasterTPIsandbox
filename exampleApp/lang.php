@@ -76,7 +76,7 @@ $string['Head_trad05Credits']	= '(C)".strftime("%Y")." Raquel Cardoso Montero';
 $string['Head_trad05FlagURL'] = 'https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Great-Britain_240-animated-flag-gifs.gif' ;
 $string['trad05ejemploUno'] = 'The client $a->user_surname pay $a->amount € to the translator.';
 $string['trad05ejemploDos'] = 'Spain will come out of the economical crisis in ".strftime("%Y",$a->rawTime)."';
-$string['trad05ejemploTres'] = '';
+$string['trad05ejemploTres'] = '$a->user_surname university was founded in ".strftime("%Y",$a->rawTime)."';
 
 $string['trad06Greeting'] =	'Welcom to the work of translator $a->numTrad published at $a->time';
 $string['trad06Author'] = 'This text was written by Wenqi Luan';
