@@ -98,7 +98,7 @@ $string['trad07CurrencyString'] = 'To complete the trading card collection of th
 $string['trad07Message'] = 'It could have been done by another person, but Mr. $a->user_surname has achieved it again. Long life to $a->user_name $a->user_surname!';
 $string['Head_trad07Credits']	= '(C)".strftime("%Y")." Andrea Bernárdez López';
 $string['Head_trad07FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/great_britain_mwvvvv.gif';
-$string['trad07ejemploUno'] = 'The writer $a->user_surname has started the collection during the week number ".strftime("%U,$a->rawTime)." .';
+$string['trad07ejemploUno'] = 'The writer $a->user_surname has started the collection during the week number ".strftime("%U",$a->rawTime)." .';
 $string['trad07ejemploDos'] = 'The translator $a->numTrad has paid £ $a->amount for the trading card collection at ".strftime("%H:%M",$a->rawTime).".';
 $string['trad07ejemploTres'] = 'The ".strftime("%d/%b/%G",$a->rawTime)." at $a->time the translator $a->numTrad and $a->user_surname have managed to finish the collection.';
 
