@@ -54,19 +54,6 @@ $string['trad03ejemploUno'] = '';
 $string['trad03ejemploDos'] = '';
 $string['trad03ejemploTres'] = '';
 
-<<<<<<< HEAD
-$string['trad4Greeting'] =	'Welcome to the translator work $a->numTrad published at $a->time';
-$string['trad4Author'] = '';
-$string['trad4FormatDate'] = '.';
-$string['trad4NumString'] = '';
-$string['trad4CurrencyString'] = '';
-$string['trad4Message'] = '';
-$string['Head_trad4Credits']	= '';
-$string['Head_trad4FlagURL'] = '';
-$string['trad4ejemploUno'] = '';
-$string['trad4ejemploDos'] = '';
-$string['trad4ejemploTres'] = '';
-=======
 $string['trad04Greeting'] =	'Welcome to the translator work $a->numTrad published at $a->time';
 $string['trad04Author'] = 'This text has been written by Rocío Barragán';
 $string['trad04FormatDate'] = 'Today is ".strftime("%A, %d de %B de %Y",$a->rawTime)." and the week has already started.';
@@ -78,7 +65,6 @@ $string['Head_trad04FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea
 $string['trad04ejemploUno'] = 'Yet Mr. $a->user_surname wants to pay $a->amount €';
 $string['trad04ejemploDos'] = 'The soccer match will be ".strftime("$date,'d/m/y'->rawTime)." ';
 $string['trad04ejemploTres'] = '';
->>>>>>> 1e637e20f2e8ad3ab5be4e0ec78b06332418a24f
 
 $string['trad05Greeting'] =	'Welcome to the $a->numTrad traductor´s work publish at $a->time';
 $string['trad05Author'] = 'This text was written by Raquel Cardoso Montero';
@@ -112,9 +98,9 @@ $string['trad07CurrencyString'] = 'To complete the trading card collection of th
 $string['trad07Message'] = 'It could have been done by another person, but Mr. $a->user_surname has achieved it again. Long life to $a->user_name $a->user_surname!';
 $string['Head_trad07Credits']	= '(C)".strftime("%Y")." Andrea Bernárdez López';
 $string['Head_trad07FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/great_britain_mwvvvv.gif';
-$string['trad07ejemploUno'] = 'The writer $a->user_surname has started the collection the ".strftime("%dth %B %Y",$a->rawTime)." .';
-$string['trad07ejemploDos'] = 'The translator $a->numTrad has paid £ $a->amount for the trading card collection.';
-$string['trad07ejemploTres'] = 'The ".strftime("%b/%d/%G",$a->rawTime)." at $a->time the translator $a->numTrad and $a->user_surname have managed to finish the collection.';
+$string['trad07ejemploUno'] = 'The writer $a->user_surname has started the collection during the week number ".strftime("%U",$a->rawTime)." .';
+$string['trad07ejemploDos'] = 'The translator $a->numTrad has paid £ $a->amount for the trading card collection at ".strftime("%H:%M",$a->rawTime).".';
+$string['trad07ejemploTres'] = 'The ".strftime("%d/%b/%G",$a->rawTime)." at $a->time the translator $a->numTrad and $a->user_surname have managed to finish the collection.';
 
 $string['trad08Greeting'] =	'Welcome to the work of translator $a->numTrad published at $a->time';
 $string['trad08Author'] = 'This text has been written by Jaime Sánchez Carnicer';
