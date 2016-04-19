@@ -54,7 +54,6 @@ $string['trad03ejemploUno'] = '';
 $string['trad03ejemploDos'] = '';
 $string['trad03ejemploTres'] = '';
 
-<<<<<<< HEAD
 $string['trad4Greeting'] =	'Welcome to the translator work $a->numTrad published at $a->time';
 $string['trad4Author'] = '';
 $string['trad4FormatDate'] = '';
@@ -66,19 +65,6 @@ $string['Head_trad4FlagURL'] = '';
 $string['trad4ejemploUno'] = '';
 $string['trad4ejemploDos'] = '';
 $string['trad4ejemploTres'] = '';
-=======
-$string['trad04Greeting'] =	'';
-$string['trad04Author'] = '';
-$string['trad04FormatDate'] = '';
-$string['trad04NumString'] = '';
-$string['trad04CurrencyString'] = '';
-$string['trad04Message'] = '';
-$string['Head_trad04Credits']	= '';
-$string['Head_trad04FlagURL'] = '';
-$string['trad04ejemploUno'] = '';
-$string['trad04ejemploDos'] = '';
-$string['trad04ejemploTres'] = '';
->>>>>>> 5f1a863086f414f5f2a9194bf571c4093d4fb485
 
 $string['trad05Greeting'] =	'Welcome to the $a->numTrad traductor´s work publish at $a->time';
 $string['trad05Author'] = 'This text was written by Raquel Cardoso Montero';
