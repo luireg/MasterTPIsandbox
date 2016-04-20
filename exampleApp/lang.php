@@ -28,7 +28,7 @@ $string['Head_trad01Credits']	= '(C)".strftime("%Y")." Beatriz Martínez Montagu
 $string['Head_trad01FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/super/inglesa.gif';
 $string['trad01ejemploUno'] = 'The boy arrived at ".strftime("%I %P",$a->rawTime).".';
 $string['trad01ejemploDos'] = 'The exam was on ".strftime("%B %e",$a->rawTime).".';
-$string['trad01ejemploTres'] = 'Japanese use this date format: ".strftime("%Y-%m-%d",$a->rawTime)."';
+$string['trad01ejemploTres'] = 'Japanese use this date format: ".strftime("%Y-%m-%d",$a->rawTime).".';
 
 $string['trad02Greeting'] =	'Welcome to the work of translator $a->numTrad published at $a->time';
 $string['trad02Author'] = 'This text has been written by Miriam Casares';
