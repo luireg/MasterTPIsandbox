@@ -26,8 +26,8 @@ $string['trad01CurrencyString'] = 'To complete a collection of the Spanish leagu
 $string['trad01Message'] = 'Someone could have done it, but mister $a->user_surname has achieved again. ¡Long life $a->user_name $a->user_surname!';
 $string['Head_trad01Credits']	= '(C)".strftime("%Y")." Beatriz Martínez Montagut';
 $string['Head_trad01FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/super/inglesa.gif';
-$string['trad01ejemploUno'] = '';
-$string['trad01ejemploDos'] = '';
+$string['trad01ejemploUno'] = 'The boy arrived at ".strftime("%H",$a->rawTime)."';
+$string['trad01ejemploDos'] = 'The exam was ".strftime("%B %e",$a->rawTime)."';
 $string['trad01ejemploTres'] = '';
 
 $string['trad02Greeting'] =	'Welcome to the work of translator $a->numTrad published at $a->time';
