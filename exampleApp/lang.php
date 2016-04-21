@@ -56,11 +56,8 @@ $string['trad03ejemploTres'] = '';
 
 $string['trad04Greeting'] =	'Welcome to the translator work $a->numTrad published at $a->time';
 $string['trad04Author'] = 'This text has been written by Rocío Barragán';
-<<<<<<< HEAD
 $string['trad04FormatDate'] = 'Today is ".strftime("%A, %d %B  %Y",$a->rawTime)." and the week has already started.';
-=======
 $string['trad04FormatDate'] = 'Today is ".strftime("%A %d de %B de %Y",$a->rawTime)." and the week has already started.';  
->>>>>>> b9e617df8c8def982f0355145d174e8cda857c10
 $string['trad04NumString'] = 'Completing a league sticker collection costs $a->amount €';
 $string['trad04CurrencyString'] = 'Completing a league sticker collection costs ".number_format($a->amount,2)." euros.';
 $string['trad04Message'] = 'It could have been by another person, but Mr. $a->user_surname did it again. ¡Hurra! $a->user_name $a->user_surname';
