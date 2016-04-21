@@ -56,7 +56,11 @@ $string['trad03ejemploTres'] = '';
 
 $string['trad04Greeting'] =	'Welcome to the translator work $a->numTrad published at $a->time';
 $string['trad04Author'] = 'This text has been written by Rocío Barragán';
+<<<<<<< HEAD
 $string['trad04FormatDate'] = 'Today is ".strftime("%A, %d %B  %Y",$a->rawTime)." and the week has already started.';
+=======
+$string['trad04FormatDate'] = 'Today is ".strftime("%A %d de %B de %Y",$a->rawTime)." and the week has already started.';  
+>>>>>>> b9e617df8c8def982f0355145d174e8cda857c10
 $string['trad04NumString'] = 'Completing a league sticker collection costs $a->amount €';
 $string['trad04CurrencyString'] = 'Completing a league sticker collection costs ".number_format($a->amount,2)." euros.';
 $string['trad04Message'] = 'It could have been by another person, but Mr. $a->user_surname did it again. ¡Hurra! $a->user_name $a->user_surname';
@@ -68,7 +72,7 @@ $string['trad04ejemploTres'] = 'I am looking forward to meeting $a->user_name on
 
 $string['trad05Greeting'] =	'Welcome to the $a->numTrad traductor´s work publish at $a->time';
 $string['trad05Author'] = 'This text was written by Raquel Cardoso Montero';
-$string['trad05FormatDate'] = 'Today is ".strftime("%A ,%d %B %Y",$a->rawTime)." and the week is beginning.';
+$string['trad05FormatDate'] = 'Today is ".strftime("%A %d %B %Y",$a->rawTime)." and the week is beginning.';
 $string['trad05NumString'] = 'To end a card collection of the league cost $a->amount €';
 $string['trad05CurrencyString'] = 'To end a card collection of the league cost ".number_format($a->amount,2)." euro.';
 $string['trad05Message'] = 'It could have been done by another person, but Mr. $a->user_surname has achieved it again. Congratulations $a->user_name $a->user_surname!';
@@ -76,7 +80,7 @@ $string['Head_trad05Credits'] = '(C)".strftime("%Y")." Raquel Cardoso Montero';
 $string['Head_trad05FlagURL'] = 'https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Great-Britain_240-animated-flag-gifs.gif' ;
 $string['trad05ejemploUno'] = 'The client $a->user_surname pay $a->amount € to the translator $a->user_name $a->user_surname.';
 $string['trad05ejemploDos'] = 'Spain will come out of the economical crisis at ".strftime("%H:%M",$a->rawTime).".';
-$string['trad05ejemploTres'] = ' $a->user_surname university was founded on ".strftime("%B %e",$a->rawTime).".';
+$string['trad05ejemploTres'] = ' $a->user_surname university was founded on ".strftime("%B %e",$a->rawTime).".'; 
 
 $string['trad06Greeting'] =	'Welcom to the work of translator $a->numTrad published at $a->time';
 $string['trad06Author'] = 'This text was written by Wenqi Luan';
@@ -92,7 +96,7 @@ $string['trad06ejemploTres'] = 'Ms. $a->user_surname is 30 years old';
 
 $string['trad07Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time';
 $string['trad07Author'] = 'This text has been written by Andrea Bernárdez López.';
-$string['trad07FormatDate'] = 'Today is ".strftime("%A ,%dth %B %Y",$a->rawTime)." and the week already starts.';
+$string['trad07FormatDate'] = 'Today is ".strftime("%A, %dth %B %Y",$a->rawTime)." and the week already starts.';
 $string['trad07NumString'] = 'To complete the trading card collection of the Spanish League costs £ $a->amount.';
 $string['trad07CurrencyString'] = 'To complete the trading card collection of the Spanish League costs ".number_format($a->amount,2)." pounds.';
 $string['trad07Message'] = 'It could have been done by another person, but Mr. $a->user_surname has achieved it again. Long life to $a->user_name $a->user_surname!';
