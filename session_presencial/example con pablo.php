@@ -1,5 +1,5 @@
 <?php
-$juices = array("manzana", "naranga", "koolaid1" => "purple");
+$juices = array("apple", "naranga", "koolaid1" => "purple");
 
 class people {
     public $john = "John Smith";
