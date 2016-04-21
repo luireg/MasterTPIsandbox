@@ -59,10 +59,10 @@ $string['trad04Author'] = 'This text has been written by Rocío Barragán';
 $string['trad04FormatDate'] = 'Today is ".strftime("%A, %d de %B de %Y",$a->rawTime)." and the week has already started.';
 $string['trad04NumString'] = 'Completing a league sticker collection costs $a->amount €';
 $string['trad04CurrencyString'] = 'Completing a league sticker collection costs ".number_format($a->amount,2)." euros.';
-$string['trad04Message'] = 'It could have been by another person, but Mr. $a->user_surname did it again. ¡hurra! $a->user_name $a->user_surname!';
+$string['trad04Message'] = 'It could have been by another person, but Mr. $a->user_surname did it again. ¡Hurra! $a->user_name $a->user_surname!';
 $string['Head_trad04Credits'] = '(C)".strftime("%Y")." Rocío Barragán';
 $string['Head_trad04FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/inglaterra.gif';
-$string['trad04ejemploUno'] = 'Yet Mr. $a->user_surname wants to pay $a->amount €';
+$string['trad04ejemploUno'] = 'Yet Mr. $a->user_surname wants to talk to me at $a->time ';
 $string['trad04ejemploDos'] = 'The meeting will be in ".strftime("%Y",$a->rawTime)."  ';
 $string['trad04ejemploTres'] = 'I am looking forward to meeting $a->user_name';
 
