@@ -64,7 +64,7 @@ $string['Head_trad04Credits'] = '(C)".strftime("%Y")." Rocío Barragán';
 $string['Head_trad04FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/inglaterra.gif';
 $string['trad04ejemploUno'] = 'Yet Mr. $a->user_surname wants to pay $a->amount €';
 $string['trad04ejemploDos'] = 'The meeting will be in ".strftime("%Y",$a->rawTime)."  ';
-$string['trad04ejemploTres'] = '$a->user_name is expected to visit us on ".strftime("%d",$a->rawTime)."	';
+$string['trad04ejemploTres'] = 'I am looking forward to meeting $a->user_name on ".strftime("%m/%d/%y",$a->rawTime)."';
 
 $string['trad05Greeting'] =	'Welcome to the $a->numTrad traductor´s work publish at $a->time';
 $string['trad05Author'] = 'This text was written by Raquel Cardoso Montero';
