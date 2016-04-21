@@ -91,7 +91,7 @@ $string['trad06ejemploUno'] = 'The girl arrived at $a->time.';
 $string['trad06ejemploDos'] = 'Her birthday is ".strftime("%m/%d/%Y")."';
 $string['trad06ejemploTres'] = 'Ms. $a->user_surname is 30 years old';
 
-$string['trad07Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time.';
+$string['trad07Greeting'] =	'Welcome to the \translator's\ work $a->numTrad published at $a->time.';
 $string['trad07Author'] = 'This text has been written by Andrea Bernárdez López.';
 $string['trad07FormatDate'] = 'Today is ".strftime("%A, %B %dth %Y",$a->rawTime)." and the week already starts.';
 $string['trad07NumString'] = 'To complete the trading card collection of the Spanish League costs £ $a->amount.';
