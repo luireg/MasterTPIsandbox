@@ -20,7 +20,7 @@ $string['trad00ejemploTres'] = '';
  */
 $string['trad01Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time';
 $string['trad01Author'] = 'This text has been written by Beatriz Martínez Montagut';
-$string['trad01FormatDate'] = 'Today is ".strftime("%A, %d of %B de %Y",$a->rawTime)." and the week is already started.';
+$string['trad01FormatDate'] = 'Today is ".strftime("%A, %dth %B %Y",$a->rawTime)." and the week is already started.';
 $string['trad01NumString'] = 'To complete a collection of the Spanish league costs £ $a->amount'; 
 $string['trad01CurrencyString'] = 'To complete a collection of the Spanish league costs ".number_format($a->amount,2)." pounds.';
 $string['trad01Message'] = 'Someone could have done it, but mister $a->user_surname has achieved again. ¡Long life $a->user_name $a->user_surname!';
