@@ -68,7 +68,7 @@ $string['trad04ejemploTres'] = 'I am looking forward to meeting $a->user_name on
 
 $string['trad05Greeting'] =	'Welcome to the $a->numTrad traductor´s work publish at $a->time';
 $string['trad05Author'] = 'This text was written by Raquel Cardoso Montero';
-$string['trad05FormatDate'] = 'Today is ".strftime("%A ,%d %B %Y",$a->rawTime)." and the week is beginning.';
+$string['trad05FormatDate'] = 'Today is ".strftime("%A %d %B %Y",$a->rawTime)." and the week is beginning.';
 $string['trad05NumString'] = 'To end a card collection of the league cost $a->amount €';
 $string['trad05CurrencyString'] = 'To end a card collection of the league cost ".number_format($a->amount,2)." euro.';
 $string['trad05Message'] = 'It could have been done by another person, but Mr. $a->user_surname has achieved it again. Congratulations $a->user_name $a->user_surname!';
