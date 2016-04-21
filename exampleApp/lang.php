@@ -32,15 +32,15 @@ $string['trad01ejemploTres'] = 'Japanese use this date format: ".strftime("%Y-%m
 
 $string['trad02Greeting'] =	'Welcome to the work of translator $a->numTrad published at $a->time';
 $string['trad02Author'] = 'This text has been written by Miriam Casares';
-$string['trad02FormatDate'] = 'Today is ".strftime("%A ,%d de %B de %Y",$a->rawTime)." and the week is starting';
+$string['trad02FormatDate'] = 'Today is ".strftime("%A ,%d %B %Y",$a->rawTime)." and the week is starting';
 $string['trad02NumString'] = 'To complete a sticker collection of the Spanish league costs £ $a->amount';
 $string['trad02CurrencyString'] = 'To complete a sticker collection of the Spanish league costs ".number_format($a->amount,2)." pounds';
 $string['trad02Message'] = 'It could have been done by another person, but mister $a->user_surname has achieved it again. ¡Long live $a->user_name $a->user_surname!';
 $string['Head_trad02Credits']	= '(C)".strftime("%Y")." Miriam Casares Hernández';
 $string['Head_trad02FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/inglaterra.gif';
-$string['trad02ejemploUno'] = '';
-$string['trad02ejemploDos'] = '';
-$string['trad02ejemploTres'] = '';
+$string['trad02ejemploUno'] = 'The deadline to deliver the paperwork is ".strftime("%m/%d/%y", $a->rawTime).";
+$string['trad02ejemploDos'] = 'The plane landed at ".strftime("%I %P", $a->rawTime)."; 
+$string['trad02ejemploTres'] = 'The meeting ended up at $a->time';
 
 $string['trad03Greeting'] =	'';
 $string['trad03Author'] = '';
