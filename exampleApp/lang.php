@@ -62,9 +62,9 @@ $string['trad04CurrencyString'] = 'Completing a league sticker collection costs 
 $string['trad04Message'] = 'It could have been by another person, but Mr. $a->user_surname did it again. ¡Hurra! $a->user_name $a->user_surname!';
 $string['Head_trad04Credits'] = '(C)".strftime("%Y")." Rocío Barragán';
 $string['Head_trad04FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/inglaterra.gif';
-$string['trad04ejemploUno'] = 'Yet Mr. $a->user_surname wants to talk to me at $a->time ';
+$string['trad04ejemploUno'] = 'Yet Mr. $a->user_surname wants to talk to me at ".strftime("%I:%M:%S", $a->time)." ';
 $string['trad04ejemploDos'] = 'The meeting will be in ".strftime("%Y",$a->rawTime)."  ';
-$string['trad04ejemploTres'] = 'I am looking forward to meeting $a->user_name on ".strftime("%m/%d/%y%Y",$a->rawTime)."';
+$string['trad04ejemploTres'] = 'I am looking forward to meeting $a->user_name on ".strftime("%m/%d/%y",$a->rawTime)."';
 
 $string['trad05Greeting'] =	'Welcome to the $a->numTrad traductor´s work publish at $a->time';
 $string['trad05Author'] = 'This text was written by Raquel Cardoso Montero';
