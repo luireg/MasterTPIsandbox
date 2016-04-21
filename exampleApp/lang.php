@@ -76,7 +76,7 @@ $string['trad05Message'] = 'It could have been done by another person, but Mr. $
 $string['Head_trad05Credits'] = '(C)".strftime("%Y")." Raquel Cardoso Montero';
 $string['Head_trad05FlagURL'] = 'https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Great-Britain_240-animated-flag-gifs.gif' ;
 $string['trad05ejemploUno'] = 'The client $a->user_surname pay $a->amount € to the translator $a->user_name $a->user_surname.';
-$string['trad05ejemploDos'] = 'Spain will come out of the economical crisis «bankruptcy» at ".strftime("%H:%M",$a->rawTime).".';
+$string['trad05ejemploDos'] = 'Spain will come out of the economical crisis \"bankruptcy" at ".strftime("%H:%M",$a->rawTime).".';
 $string['trad05ejemploTres'] = ' $a->user_surname university was founded on ".strftime("%B %e",$a->rawTime).".'; 
 
 $string['trad06Greeting'] =	'Welcom to the work of translator $a->numTrad published at $a->time';
@@ -112,7 +112,7 @@ $string['trad08Message'] = 'Someone could have donde it, but Mr. $a->user_surnam
 $string['Head_trad08Credits']	= '(C)".strftime("%Y")." Jaime Sánchez Carnicer';
 $string['Head_trad08FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/super/inglesa.gif';
 $string['trad08ejemploUno'] = 'In the ".strftime("%Y",$a->rawTime)." Spain will win the European Championship.';
-$string['trad08ejemploDos'] = '$a->user_name paid £ $a->amount to $a->user_surname in order to paint his house.';
+$string['trad08ejemploDos'] = '$a->user_name paid £ $a->amount to $a->user_surname in order to paint his house.''He wanted a special color: /"blanco"';
 $string['trad08ejemploTres'] = 'Today, at $a->time of the week ".strftime ("%V",$a->rawTime)." and the day ".strftime ("%j",$a->rawTime)." we are in a lesson of l10n';
 
 $string['trad09Greeting'] =	'';
