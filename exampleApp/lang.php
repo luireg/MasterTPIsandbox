@@ -92,7 +92,7 @@ $string['trad06ejemploTres'] = 'Ms. $a->user_surname is 30 years old';
 
 $string['trad07Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time';
 $string['trad07Author'] = 'This text has been written by Andrea Bernárdez López.';
-$string['trad07FormatDate'] = 'Today is ".strftime("%A ,%dth %B %Y",$a->rawTime)." and the week already starts.';
+$string['trad07FormatDate'] = 'Today is ".strftime("%A, %dth %B %Y",$a->rawTime)." and the week already starts.';
 $string['trad07NumString'] = 'To complete the trading card collection of the Spanish League costs £ $a->amount.';
 $string['trad07CurrencyString'] = 'To complete the trading card collection of the Spanish League costs ".number_format($a->amount,2)." pounds.';
 $string['trad07Message'] = 'It could have been done by another person, but Mr. $a->user_surname has achieved it again. Long life to $a->user_name $a->user_surname!';
