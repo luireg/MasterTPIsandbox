@@ -76,7 +76,7 @@ $string['trad05Message'] = 'It could have been done by another person, but Mr. $
 $string['Head_trad05Credits'] = '(C)".strftime("%Y")." Raquel Cardoso Montero';
 $string['Head_trad05FlagURL'] = 'https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Great-Britain_240-animated-flag-gifs.gif' ;
 $string['trad05ejemploUno'] = 'The client $a->user_surname pay $a->amount € to the translator $a->user_name $a->user_surname.';
-$string['trad05ejemploDos'] = 'Spain will come out of the economical crisis at ".strftime("%H:%M",$a->rawTime).".';
+$string['trad05ejemploDos'] = 'Spain will come out of the economical crisis «bankruptcy» at ".strftime("%H:%M",$a->rawTime).".';
 $string['trad05ejemploTres'] = ' $a->user_surname university was founded on ".strftime("%B %e",$a->rawTime).".'; 
 
 $string['trad06Greeting'] =	'Welcom to the work of translator $a->numTrad published at $a->time';
@@ -91,7 +91,7 @@ $string['trad06ejemploUno'] = 'The girl arrived at $a->time.';
 $string['trad06ejemploDos'] = 'Her birthday is ".strftime("%m/%d/%Y")."';
 $string['trad06ejemploTres'] = 'Ms. $a->user_surname is 30 years old';
 
-$string['trad07Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time.';
+$string['trad07Greeting'] =	'Welcome to the \translator's\ work $a->numTrad published at $a->time.';
 $string['trad07Author'] = 'This text has been written by Andrea Bernárdez López.';
 $string['trad07FormatDate'] = 'Today is ".strftime("%A, %B %dth %Y",$a->rawTime)." and the week already starts.';
 $string['trad07NumString'] = 'To complete the trading card collection of the Spanish League costs £ $a->amount.';
