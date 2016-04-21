@@ -90,7 +90,7 @@ $string['trad06ejemploUno'] = 'The girl arrived at $a->time.';
 $string['trad06ejemploDos'] = 'Her birthday is ".strftime("%m/%d/%Y")."';
 $string['trad06ejemploTres'] = 'Ms. $a->user_surname is 30 years old';
 
-$string['trad07Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time';
+$string['trad07Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time.';
 $string['trad07Author'] = 'This text has been written by Andrea Bernárdez López.';
 $string['trad07FormatDate'] = 'Today is ".strftime("%A, %dth %B %Y",$a->rawTime)." and the week already starts.';
 $string['trad07NumString'] = 'To complete the trading card collection of the Spanish League costs £ $a->amount.';
@@ -98,7 +98,7 @@ $string['trad07CurrencyString'] = 'To complete the trading card collection of th
 $string['trad07Message'] = 'It could have been done by another person, but Mr. $a->user_surname has achieved it again. Long life to $a->user_name $a->user_surname!';
 $string['Head_trad07Credits']	= '(C)".strftime("%Y")." Andrea Bernárdez López';
 $string['Head_trad07FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/great_britain_mwvvvv.gif';
-$string['trad07ejemploUno'] = 'The writer $a->user_surname has started the collection during the week number ".strftime("%U",$a->rawTime)." .';
+$string['trad07ejemploUno'] = 'The writer $a->user_surname has started the collection during the week number ".strftime("%U",$a->rawTime).".';
 $string['trad07ejemploDos'] = 'The translator $a->numTrad has paid £ $a->amount for the trading card collection at ".strftime("%H:%M",$a->rawTime).".';
 $string['trad07ejemploTres'] = 'The ".strftime("%d/%b/%G",$a->rawTime)." at $a->time the translator $a->numTrad and $a->user_surname have managed to finish the collection.';
 
