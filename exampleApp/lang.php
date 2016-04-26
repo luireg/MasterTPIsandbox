@@ -78,9 +78,9 @@ $string['trad05ejemploUno'] = 'The client $a->user_surname pay $a->amount € to
 $string['trad05ejemploDos'] = 'Spain will come out of the economical crisis in ".strftime("%Y",$a->rawTime)."';
 $string['trad05ejemploTres'] = ' $a->user_surname university was founded in ".strftime("%Y",$a->rawTime)."';
 
-$string['trad06Greeting'] =	'Welcom to the work of translator $a->numTrad published at $a->time';
+$string['trad06Greeting'] =	'Welcom to the translator\'s work $a->numTrad published at $a->time';
 $string['trad06Author'] = 'This text was written by Wenqi Luan';
-$string['trad06FormatDate'] = 'Today is ".strftime("%A ,%d de %B de %Y",$a->rawTime)." and is already started the week.';
+$string['trad06FormatDate'] = 'Today is ".strftime("%A, %dth %B %Y",$a->rawTime)." and is already started the week.';
 $string['trad06NumString'] = 'To complete a collection of trading cards of the Spanish league cuest $a->amount ₤';
 $string['trad06CurrencyString'] = 'To complete a collection of trading cards of the Spanish league cuest".number_format($a->amount,2)." pounds.';
 $string['trad06Message'] = 'Someone could have done another, but Mr. $a->user_surname has achieved again. ¡Long life $a->user_name $a->user_surname!';
