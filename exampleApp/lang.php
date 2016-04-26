@@ -18,7 +18,7 @@ $string['trad00ejemploTres'] = '';
  * Está permitido cambiar los textos libremente y experimentar con formas alternativas de conseguir los mismos objetivos.
  * Cuidado con cometer fallos de síntaxis pues se estropeará todo el fichero y no se verá el resultado en la Web.
  */
-$string['trad01Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time';
+$string['trad01Greeting'] =	'Welcome to the translator\'s work $a->numTrad published at $a->time';
 $string['trad01Author'] = 'This text has been written by Beatriz Martínez Montagut';
 $string['trad01FormatDate'] = 'Today is ".strftime("%A, %dth %B %Y",$a->rawTime)." and the week is already started.';
 $string['trad01NumString'] = 'To complete a collection of the Spanish league costs £ $a->amount'; 
