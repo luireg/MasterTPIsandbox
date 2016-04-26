@@ -134,9 +134,9 @@ $string['trad10CurrencyString'] = 'Completing a collection of cards of the Spani
 $string['trad10Message'] = 'Someone else could have done it, but mister $a->user_surname has done it again. Long life to $a->user_name $a->user_surname!';
 $string['Head_trad10Credits'] = '(C)".strftime("%Y")." Carlos de Prado Paz';
 $string['Head_trad10FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/super/inglesa.gif';
-$string['trad10ejemploUno'] = '';
-$string['trad10ejemploDos'] = '';
-$string['trad10ejemploTres'] = '';
+$string['trad10ejemploUno'] = 'The plane to Milan arrives at ".strftime("%I %P", $a->rawTime)."';
+$string['trad10ejemploDos'] = 'The plane will land at $a->time';
+$string['trad10ejemploTres'] = 'His name is $a->user_surname';
 
 $string['trad11Greeting'] =	'';
 $string['trad11Author'] = '';
