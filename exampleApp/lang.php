@@ -42,7 +42,7 @@ $string['trad02ejemploUno'] = 'The deadline to deliver the paperwork is ".strfti
 $string['trad02ejemploDos'] = 'The plane landed at ".strftime("%I %P", $a->rawTime)."'; 
 $string['trad02ejemploTres'] = 'The meeting ended up at $a->time';
 
-$string['trad03Greeting'] =	'';Bienvenido en mi empresa
+$string['trad03Greeting'] =	'Bienvenido en mi empresa';
 $string['trad03Author'] = '';
 $string['trad03FormatDate'] = '';
 $string['trad03NumString'] = '';
