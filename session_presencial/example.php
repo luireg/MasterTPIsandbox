@@ -12,15 +12,15 @@ $people = new people();
 
 
 
-echo "Don $people->john bebió un zumo de $juices[0].".PHP_EOL;
+echo "Don $people->john bebiÃ³ un zumo de $juices[0].".PHP_EOL;
 
 
-// Mostrar la frase anterior en inglés
+// Mostrar la frase anterior en inglÃ©s
 
-// añadir la fecha al texto con formato largo viernes, 2 de noviembre de 2011
+// aÃ±adir la fecha al texto con formato largo viernes, 2 de noviembre de 2011
 
 // arreglar la siguiente sentencia.
 
-echo 'La $juices[0] mordida es el símbolo de la compañía de $people->steve';
+echo 'La $juices[0] mordida es el sÃ­mbolo de la compaÃ±Ã­a de $people->steve';
 
 ?>
