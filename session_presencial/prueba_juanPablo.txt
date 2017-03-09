@@ -1,10 +1,10 @@
 Hola, buenas tardes.
 Estamos probando el sistema GIT.
-Parece difícil pero es muy útil.
-Prueba de línea mala.
-kañlksjfñklaj ñflkdajs
-asdfj sñlkjf dñladfañklfja ñlkfdj añlkjfda
-aslkdhjf ñlkj fñlasj
+Parece difÃ­cil pero es muy Ãºtil.
+Prueba de lÃ­nea mala.
+kaÃ±lksjfÃ±klaj Ã±flkdajs
+asdfj sÃ±lkjf dÃ±ladfaÃ±klfja Ã±lkfdj aÃ±lkjfda
+aslkdhjf Ã±lkj fÃ±lasj
 
 fgfsgfs
 fdhgdhg
