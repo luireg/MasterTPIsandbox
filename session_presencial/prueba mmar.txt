@@ -2,4 +2,5 @@ Hola, buenas tardes.
 Estamos haciendo una prueba de GIT.
 Estamos haciendo una prueba de GIT.
 Fichero de prueba.
-Hasta luego
+Hasta luego.
+Que pases un buen fin de semana.

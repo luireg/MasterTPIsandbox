@@ -31,7 +31,7 @@ $string['trad1ejemploDos'] = '';
 $string['trad1ejemploTres'] = '';
 
 $string['trad2Greeting'] =	'';
-$string['trad1Author'] = '';
+$string['trad2Author'] = '';
 $string['trad2FormatDate'] = '';
 $string['trad2NumString'] = '';
 $string['trad2CurrencyString'] = '';
