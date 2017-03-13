@@ -18,13 +18,13 @@ $string['trad0ejemploTres'] = '';
  * Está permitido cambiar los textos libremente y experimentar con formas alternativas de conseguir los mismos objetivos.
  * Cuidado con cometer fallos de síntaxis pues se estropeará todo el fichero y no se verá el resultado en la Web.
  */
-$string['trad1Greeting'] =	'';
-$string['trad1Author'] = '';
-$string['trad1FormatDate'] = '';
-$string['trad1NumString'] = '';
-$string['trad1CurrencyString'] = '';
-$string['trad1Message'] = '';
-$string['Head_trad1Credits']	= '';
+$string['trad1Greeting'] =	'Bienvenue au travail du traducteur $a->nunTrad publié aux $a->time';
+$string['trad1Author'] = 'Ce texte a été ecrit par Karim Hajjami';
+$string['trad1FormatDate'] = 'Aujourd´hui c´est ".strftime("%A ,%d de %B de %Y",$a->rawTime)." et elle commance la semaine.'';
+$string['trad1NumString'] = 'Remplissez une collection de cartes à échanger de la ligue qui coûte".number_format($a->amount,2)."euros.';
+$string['trad1CurrencyString'] = 'Il aurait pu faire autre personne, mais le monsieur $a->user_surname';
+$string['trad1Message'] = '(C)".strftime("%Y)." Karim Hajjami';
+$string['Head_trad1Credits']	= 'http://www.banderas-del-mundo.com/Espana/con_escudo/spain_lc.gif';
 $string['Head_trad1FlagURL'] = '';
 $string['trad1ejemploUno'] = '';
 $string['trad1ejemploDos'] = '';
