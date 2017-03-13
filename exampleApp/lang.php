@@ -18,13 +18,13 @@ $string['trad0ejemploTres'] = '';
  * Está permitido cambiar los textos libremente y experimentar con formas alternativas de conseguir los mismos objetivos.
  * Cuidado con cometer fallos de síntaxis pues se estropeará todo el fichero y no se verá el resultado en la Web.
  */
-$string['trad1Greeting'] =	'Bienvenue au travail du traducteur $a->nunTrad publié aux $a->time';
+$string['trad1Greeting'] = 'Bienvenue au travail du traducteur $a->nunTrad publié aux $a->time';
 $string['trad1Author'] = 'Ce texte a été ecrit par Karim Hajjami';
-$string['trad1FormatDate'] = 'Aujourd´hui c´est ".strftime("%A ,%d de %B de %Y",$a->rawTime)." et elle commance la semaine.';
+$string['trad1FormatDate'] = 'Aujourd_hui c_est ".strftime("%A ,%d de %B de %Y",$a->rawTime)." et elle commance la semaine.';
 $string['trad1NumString'] = 'Remplissez une collection de cartes à échanger de la ligue qui coûte".number_format($a->amount,2)."euros.';
 $string['trad1CurrencyString'] = 'Il aurait pu faire autre personne, mais le monsieur $a->user_surname';
 $string['trad1Message'] = '(C)".strftime("%Y)." Karim Hajjami';
-$string['Head_trad1Credits']	= 'http://www.banderas-del-mundo.com/Espana/con_escudo/spain_lc.gif';
+$string['Head_trad1Credits'] = 'http://www.banderas-del-mundo.com/Espana/con_escudo/spain_lc.gif';
 $string['Head_trad1FlagURL'] = '';
 $string['trad1ejemploUno'] = '';
 $string['trad1ejemploDos'] = '';
@@ -36,7 +36,7 @@ $string['trad2FormatDate'] = 'Today is ".strftime("%A, %d %B %Y",$a->rawTime)." 
 $string['trad2NumString'] = 'Finishing a footbal league picture card collection costs £ $a->amount';
 $string['trad2CurrencyString'] = 'Finishing a footbal league picture card collection costs ".number_format($a->amount,2)." pounds.';
 $string['trad2Message'] = 'Any other person could have done it but Mr. $a->user_surname has made it again. Hurray for $a->user_name $a->user_surname!';
-$string['Head_trad2Credits']	= '(C)".strftime("%Y")." María del Mar Salvador Ruiz';
+$string['Head_trad2Credits'] = '(C)".strftime("%Y")." María del Mar Salvador Ruiz';
 $string['Head_trad2FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/inglaterra.gif';
 $string['trad2ejemploUno'] = '';
 $string['trad2ejemploDos'] = '';
@@ -48,7 +48,7 @@ $string['trad3FormatDate'] = '';
 $string['trad3NumString'] = '';
 $string['trad3CurrencyString'] = '';
 $string['trad3Message'] = '';
-$string['Head_trad3Credits']	= '';
+$string['Head_trad3Credits'] = '';
 $string['Head_trad3FlagURL'] = '';
 $string['trad3ejemploUno'] = '';
 $string['trad3ejemploDos'] = '';
