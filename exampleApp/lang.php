@@ -4,7 +4,7 @@ $string['pageTitle']	=	'Bienvenidos a la página de traducción de PHP';
 
 $string['trad0Greeting'] =	'Bienvenido al trabajo del traductor $a->numTrad publicado a las $a->time';
 $string['trad0Author'] = 'Este texto ha sido redactado por Juan Pablo de Castro';
-$string['trad0FormatDate'] = 'Hoy es ".strftime("%A ,%d de %B de %Y",$a->rawTime)." y ya empieza la semana.';
+$string['trad0FormatDate'] = 'Hoy es ".strftime("%A, %d de %B de %Y",$a->rawTime)." y ya empieza la semana.';
 $string['trad0NumString'] = 'Completar una colección de cromos de la liga cuesta $a->amount €';
 $string['trad0CurrencyString'] = 'Completar una colección de cromos de la liga cuesta ".number_format($a->amount,2)." euros.';
 $string['trad0Message'] = 'Podría haberlo hecho otro, pero el señor $a->user_surname lo ha vuelto a conseguir. ¡Viva $a->user_name $a->user_surname!';
