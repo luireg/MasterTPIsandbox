@@ -20,7 +20,7 @@ $string['trad0ejemploTres'] = '';
  */
 $string['trad1Greeting'] =	'Bienvenue au travail du traducteur $a->nunTrad publié aux $a->time';
 $string['trad1Author'] = 'Ce texte a été ecrit par Karim Hajjami';
-$string['trad1FormatDate'] = 'Aujourd´hui c´est ".strftime("%A ,%d de %B de %Y",$a->rawTime)." et elle commance la semaine.'';
+$string['trad1FormatDate'] = 'Aujourd´hui c´est ".strftime("%A ,%d de %B de %Y",$a->rawTime)." et elle commance la semaine.';
 $string['trad1NumString'] = 'Remplissez une collection de cartes à échanger de la ligue qui coûte".number_format($a->amount,2)."euros.';
 $string['trad1CurrencyString'] = 'Il aurait pu faire autre personne, mais le monsieur $a->user_surname';
 $string['trad1Message'] = '(C)".strftime("%Y)." Karim Hajjami';
