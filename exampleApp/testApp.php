@@ -2,7 +2,7 @@
 error_reporting(-1);
 ini_set("display_errors", 1);
 include ("i18nlib.php");
-$numTrad=11;
+$numTrad=3;
 $a = new stdClass();
 $a->time = date("H:i:s");
 $a->rawTime = time();
