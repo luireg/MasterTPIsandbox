@@ -40,7 +40,7 @@ $string['Head_trad2Credits']	= '(C)".strftime("%Y")." María del Mar Salvador Ru
 $string['Head_trad2FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/inglaterra.gif';
 $string['trad2ejemploUno'] = 'His achievement was published on ".strftime("%x",$a->rawTime)." in the local newspaper.';
 $string['trad2ejemploDos'] = 'Actually, 70%% of the population never achieve the completion of any kind of collection in their lives, eventhough their value can reach £ $a->amount*=5';
-$string['trad2ejemploTres'] = 'We all should celebrate Mr. $a->user_surname\'s deed. Our next publication will be out tomorrow at $a->time("%T").';
+$string['trad2ejemploTres'] = 'We all should celebrate Mr. $a->user_surname\'s deed. Our next publication will be out from next ".strftime("%A")."';
 
 $string['trad3Greeting'] =	'Welcome to the translator work $a->numTrad published at $a->time';
 $string['trad3Author'] = 'This text was written by Juan Pablo de Castro';
