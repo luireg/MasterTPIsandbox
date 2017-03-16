@@ -39,7 +39,7 @@ $string['trad2Message'] = 'Any other person could have done it but Mr. $a->user_
 $string['Head_trad2Credits']	= '(C)".strftime("%Y")." María del Mar Salvador Ruiz';
 $string['Head_trad2FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/inglaterra.gif';
 $string['trad2ejemploUno'] = 'His achievement was published on ".strftime("%x",$a->rawTime)." in the local newspaper.';
-$string['trad2ejemploDos'] = 'Actually, 70%% of the population never achieve the completion of any kind of collection in their lives, eventhough their value can reach £ $a->amount+$a->amount';
+$string['trad2ejemploDos'] = 'Actually, 70%% of the population never achieve the completion of any kind of collection in their lives, eventhough their value can reach £ $a->amount*5';
 $string['trad2ejemploTres'] = '';
 
 $string['trad3Greeting'] =	'Welcome to the translator work $a->numTrad published at $a->time';
