@@ -13,7 +13,11 @@ $string['Head_trad0FlagURL'] = 'http://www.banderas-del-mundo.com/Espana/con_esc
 $string['trad0ejemploUno'] = '';
 $string['trad0ejemploDos'] = '';
 $string['trad0ejemploTres'] = '';
- 
+/**
+ * Crear todas las claves de arriba de forma ordenada y sin estropear el trabajo de los demás compañeros.
+ * Está permitido cambiar los textos libremente y experimentar con formas alternativas de conseguir los mismos objetivos.
+ * Cuidado con cometer fallos de síntaxis pues se estropeará todo el fichero y no se verá el resultado en la Web.
+ */
 $string['trad1Greeting'] =	'Bienvenue au travail du traducteur $a->nunTrad publié à $a->time';
 $string['trad1Author'] = 'Ce texte a été ecrit par Karim Hajjami';
 $string['trad1FormatDate'] = 'Aujourd_hui c_est ".strftime("%A ,%d de %B de %Y",$a->rawTime)." et commance la semaine.';
@@ -36,7 +40,7 @@ $string['Head_trad2Credits']	= '(C)".strftime("%Y")." María del Mar Salvador Ru
 $string['Head_trad2FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/inglaterra.gif';
 $string['trad2ejemploUno'] = 'His achievement was published on ".strftime("%x",$a->rawTime)." in the local newspaper.';
 $string['trad2ejemploDos'] = 'Actually, 70%% of the population never achieve the completion of any kind of collection in their lives, eventhough their value can reach £ $a->amount*=5';
-$string['trad2ejemploTres'] = 'We all should celebrate Mr. $a->user_surname\'s deed. Our next publication will be out tomorrow at %T';
+$string['trad2ejemploTres'] = 'We all should celebrate Mr. $a->user_surname\'s deed. Our next publication will be out tomorrow at "%T",$a->time';
 
 $string['trad3Greeting'] =	'Welcome to the translator work $a->numTrad published at $a->time';
 $string['trad3Author'] = 'This text was written by Juan Pablo de Castro';
