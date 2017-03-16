@@ -40,14 +40,14 @@ $string['Head_trad2Credits']	= '(C)".strftime("%Y")." María del Mar Salvador Ru
 $string['Head_trad2FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/inglaterra.gif';
 $string['trad2ejemploUno'] = 'His achievement was published on ".strftime("%x",$a->rawTime)." in the local newspaper.';
 $string['trad2ejemploDos'] = 'Actually, 70%% of the population never achieve the completion of any kind of collection in their lives, eventhough their value can reach £ $a->amount*=5';
-$string['trad2ejemploTres'] = '';
+$string['trad2ejemploTres'] = 'We all should celebrate Mr. $a->user_surname\'s deed. Our next publication will be out tomorrow at %T';
 
 $string['trad3Greeting'] =	'Welcome to the translator work $a->numTrad published at $a->time';
 $string['trad3Author'] = 'This text was written by Juan Pablo de Castro';
 $string['trad3FormatDate'] = 'Today is ".strftime("%A, %d of %B of %Y",$a->rawTime)." and the week is about to start.';
 $string['trad3NumString'] = 'Completing a stick collection of the League costs $a->amount €';
 $string['trad3CurrencyString'] = 'Completing a stick collection of the League costs ".number_format($a->amount,2)." euros.';
-$string['trad3Message'] = 'It could have been done by another, but Mr $a->user_surname has achieved again. $a->user_name $a->user_surname rules!';
+$string['trad3Message'] = 'It could have been done by another, but Mr $a->user_surname has achieved again. ?$a->user_name $a->user_surname rules!';
 $string['Head_trad3Credits']= '(C)".strftime("%Y")." Yiwei Wang';
 $string['Head_trad3FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/super/inglesa.gif';
 $string['trad3ejemploUno'] = 'Ms. $a->user_surname is 45 years old.';
