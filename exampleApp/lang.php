@@ -38,7 +38,7 @@ $string['trad2CurrencyString'] = 'Finishing a footbal league picture card collec
 $string['trad2Message'] = 'Any other person could have done it but Mr. $a->user_surname has made it again. Hurray for $a->user_name $a->user_surname!';
 $string['Head_trad2Credits']	= '(C)".strftime("%Y")." María del Mar Salvador Ruiz';
 $string['Head_trad2FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/inglaterra.gif';
-$string['trad2ejemploUno'] = 'His achievement was published on  in the local newspaper.';
+$string['trad2ejemploUno'] = 'His achievement was published on $dia_anterior = date("D, jS M Y") in the local newspaper.';
 $string['trad2ejemploDos'] = '';
 $string['trad2ejemploTres'] = '';
 
