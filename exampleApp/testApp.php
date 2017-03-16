@@ -56,12 +56,12 @@ function echo_trad_section($i,&$a)
 	$loc=  "esp_ESP";
 	$loc= "es_ES.utf8";
 	}
-//	else
-//	if ($i==2)
-//	{
-//	$loc= "fra_FRA";
-//	$loc= "fr_FR.utf8";
-//	}
+	else
+	if ($i==1)
+	{
+	$loc= "fra_FRA";
+	$loc= "fr_FR.utf8";
+	}
 	else
 	{
 	$loc= "eng_UK";
