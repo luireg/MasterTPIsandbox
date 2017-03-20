@@ -23,7 +23,7 @@ $string['trad1Author'] = 'Ce texte a été ecrit par Karim Hajjami';
 $string['trad1FormatDate'] = 'Aujourd´hui c´est ".strftime("%A ,%d de %B de %Y",$a->rawTime)." et commance la semaine.';
 $string['trad1NumString'] = 'Remplissez une collection de cartes à échanger de la ligue qui coûte $a->amount €';
 $string['trad1CurrencyString'] = 'Remplissez une collection de cartes à échanger de la ligue qui coûte ".number_format($a->amount,2)." euros.';
-$string['trad1Message'] = 'Il aurait pu faire autre personne, mais monsieur $a->user_surname il a de nouveau atteint. Vive $a->user_name $a->user_surname!';
+$string['trad1Message'] = 'Il aurait pu faire autre personne, mais le monsieur $a->user_surname il a de nouveau atteint. Vive $a->user_name $a->user_surname!';
 $string['Head_trad1Credits']	= '(C)".strftime("%Y")." Karim Hajjami';
 $string['Head_trad1FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/Francia/francesas/france_lc.gif';
 $string['trad1ejemploUno'] = 'Nous nous reverrons le ".strftime("%A ,%d  %B  %Y",$a->rawTime)."';
@@ -39,7 +39,7 @@ $string['trad2Message'] = 'Any other person could have done it but Mr. $a->user_
 $string['Head_trad2Credits']	= '(C)".strftime("%Y")." María del Mar Salvador Ruiz';
 $string['Head_trad2FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/inglaterra.gif';
 $string['trad2ejemploUno'] = 'His achievement was published on ".strftime("%x",$a->rawTime)." in the local newspaper.';
-$string['trad2ejemploDos'] = 'Actually, 70%% of the population never achieve the completion of any kind of collection in their lives, eventhough their value can reach £ ($a->amount)*($a->amount).';
+$string['trad2ejemploDos'] = 'Actually, 70%% of the population never achieve the completion of any kind of collection in their lives, eventhough they can multiply by 10 the collection\'s value.';
 $string['trad2ejemploTres'] = 'We all should celebrate Mr. $a->user_surname\'s deed. Our next publication will be out from next ".strftime("%A").".';
 
 $string['trad3Greeting'] =	'Welcome to the translator work $a->numTrad published at $a->time';
