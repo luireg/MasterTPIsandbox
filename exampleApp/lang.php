@@ -26,7 +26,7 @@ $string['trad1CurrencyString'] = 'Remplissez une collection de cartes à échang
 $string['trad1Message'] = 'Il aurait pu faire autre personne, mais le monsieur $a->user_surname il a de nouveau atteint. Vive $a->user_name $a->user_surname!';
 $string['Head_trad1Credits']	= '(C)".strftime("%Y")." Karim Hajjami';
 $string['Head_trad1FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/Francia/francesas/france_lc.gif';
-$string['trad1ejemploUno'] = 'Nous nous reverrons sur ".strftime("%A ,%d de %B de %Y",$a->rawTime)."';
+$string['trad1ejemploUno'] = 'Nous nous reverrons le ".strftime("%A ,%d de %B de %Y",$a->rawTime)."';
 $string['trad1ejemploDos'] = '';
 $string['trad1ejemploTres'] = '';
 
