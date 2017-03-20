@@ -27,7 +27,7 @@ $string['trad1Message'] = 'Il aurait pu faire autre personne, mais monsieur $a->
 $string['Head_trad1Credits']	= '(C)".strftime("%Y")." Karim Hajjami';
 $string['Head_trad1FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/Francia/francesas/france_lc.gif';
 $string['trad1ejemploUno'] = 'Nous nous reverrons le ".strftime("%d. %m. %y",$a->rawTime)."';
-$string['trad1ejemploDos'] = 'Je doit être au travail aujourd´hui à echo date("%g %A" ,$time)';
+$string['trad1ejemploDos'] = 'Je doit être au travail aujourd´hui à mktime(12,0,0,3,30,2017)';
 $string['trad1ejemploTres'] = 'Cristiano Ronaldo a remporté le prix du meilleur joueur du monde l´année dernière qui coûte $a->amount €';
 
 $string['trad2Greeting'] =	'Welcome to the work of translator $a->numTrad published at $a->time';
