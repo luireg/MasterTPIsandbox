@@ -27,11 +27,11 @@ $string['trad1Message'] = 'Il aurait pu faire autre personne, mais monsieur $a->
 $string['Head_trad1Credits']	= '(C)".strftime("%Y")." Karim Hajjami';
 $string['Head_trad1FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/Francia/francesas/france_lc.gif';
 $string['trad1ejemploUno'] = 'Nous nous reverrons le ".strftime("%d. %m. %y",$a->rawTime)."';
-$string['trad1ejemploDos'] = 'Je doit être au travail aujourd´hui àstrftime("%g %A" ,$a->time)';
+$string['trad1ejemploDos'] = 'Je doit être au travail aujourd´hui à mktime(12,0,0,3,30,2017)//3756628800 independientemente de la hora local del servidor';
 $string['trad1ejemploTres'] = 'Cristiano Ronaldo a remporté le prix du meilleur joueur du monde l´année dernière qui coûte $a->amount €';
 
 $string['trad2Greeting'] =	'Welcome to the work of translator $a->numTrad published at $a->time';
-$string['trad2Author'] = 'This text has been written by María del Mar Salvador.';
+$string['trad2Author'] = 'This text has been written by María del Mar Salvador';
 $string['trad2FormatDate'] = 'Today is ".strftime("%A, %d %B %Y",$a->rawTime)." and it is the beginning of the week.';
 $string['trad2NumString'] = 'Finishing a football league\'s picture card collection costs £$a->amount.';
 $string['trad2CurrencyString'] = 'Finishing a football league\'s picture card collection costs ".number_format($a->amount,2)." pounds.';
