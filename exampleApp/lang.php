@@ -31,7 +31,7 @@ $string['trad1ejemploDos'] = 'Je doit être au travail aujourd´hui à mktime(12
 $string['trad1ejemploTres'] = 'Cristiano Ronaldo a remporté le prix du meilleur joueur du monde l´année dernière qui coûte $a->amount €';
 
 $string['trad2Greeting'] =	'Welcome to the work of translator $a->numTrad published at $a->time';
-$string['trad2Author'] = 'This text has been written by María del Mar Salvador';
+$string['trad2Author'] = 'This text has been written by María del Mar Salvador.';
 $string['trad2FormatDate'] = 'Today is ".strftime("%A, %d %B %Y",$a->rawTime)." and it is the beginning of the week.';
 $string['trad2NumString'] = 'Finishing a football league\'s picture card collection costs £$a->amount.';
 $string['trad2CurrencyString'] = 'Finishing a football league\'s picture card collection costs ".number_format($a->amount,2)." pounds.';
