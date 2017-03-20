@@ -18,15 +18,15 @@ $string['trad0ejemploTres'] = '';
  * Está permitido cambiar los textos libremente y experimentar con formas alternativas de conseguir los mismos objetivos.
  * Cuidado con cometer fallos de síntaxis pues se estropeará todo el fichero y no se verá el resultado en la Web.
  */
-$string['trad1Greeting'] =	'Bienvenue au travail du traducteur $a->nunTrad publié à $a->time';
+$string['trad1Greeting'] =	'Bienvenue au travail du traducteur $a->numTrad publié à $a->time';
 $string['trad1Author'] = 'Ce texte a été ecrit par Karim Hajjami';
-$string['trad1FormatDate'] = 'Aujourd´hui c´est ".strftime("%A ,%d de %B de %Y",$a->rawTime)." et commance la semaine.';
+$string['trad1FormatDate'] = 'Aujourd´hui c´est ".strftime("%A, %d %B %Y",$a->rawTime)." et ça commance la semaine.';
 $string['trad1NumString'] = 'Remplissez une collection de cartes à échanger de la ligue qui coûte $a->amount €';
 $string['trad1CurrencyString'] = 'Remplissez une collection de cartes à échanger de la ligue qui coûte ".number_format($a->amount,2)." euros.';
-$string['trad1Message'] = 'Il aurait pu faire autre personne, mais le monsieur $a->user_surname il a de nouveau atteint. Vive $a->user_name $a->user_surname!';
+$string['trad1Message'] = 'Il aurait pu faire autre personne, mais monsieur $a->user_surname il l´a de nouveau atteint. Vive $a->user_name $a->user_surname!';
 $string['Head_trad1Credits']	= '(C)".strftime("%Y")." Karim Hajjami';
 $string['Head_trad1FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/Francia/francesas/france_lc.gif';
-$string['trad1ejemploUno'] = 'Nous nous reverrons le ".strftime("%A ,%d  %B  %Y",$a->rawTime)."';
+$string['trad1ejemploUno'] = 'Nous nous reverrons le ".strftime("%A, %d  %B  %Y",$a->rawTime)."';
 $string['trad1ejemploDos'] = 'Je doit être au travail aujourd´hui à $a->time';
 $string['trad1ejemploTres'] = 'Cristiano Ronaldo a remporté le prix du meilleur joueur du monde l´année dernière qui coûte $a->amount €';
 
