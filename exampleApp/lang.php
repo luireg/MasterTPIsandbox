@@ -26,9 +26,9 @@ $string['trad1CurrencyString'] = 'Remplissez une collection de cartes à échang
 $string['trad1Message'] = 'Il aurait pu faire autre personne, mais monsieur $a->user_surname il l´a de nouveau atteint. Vive $a->user_name $a->user_surname!';
 $string['Head_trad1Credits']	= '(C)".strftime("%Y")." Karim Hajjami';
 $string['Head_trad1FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/Francia/francesas/france_lc.gif';
-$string['trad1ejemploUno'] = 'Nous nous reverrons le ".strftime("%d/%m/%y",$a->rawTime)."';
-$string['trad1ejemploDos'] = 'Le derby entre Real Madrid et Barcelone aura lieu demain à ".strftime("%H:%M%P %Z",$a->rawTime)."(Central Eupean Time).';
-$string['trad1ejemploTres'] = 'Cristiano Ronaldo est le meilleur joueur du monde au ".strftime("%C",$a->rawTime)."ème siècle ';
+$string['trad1ejemploUno'] = 'Nous nous reverrons le ".strftime("%d/%m/%y",$a->rawTime).."';
+$string['trad1ejemploDos'] = 'Le derby entre Real Madrid et Barcelone aura lieu demain à ".strftime("%H:%M %P %Z",$a->rawTime)."(Central Eupean Time).';
+$string['trad1ejemploTres'] = 'Cristiano Ronaldo est le meilleur joueur du monde au ".strftime("%C",$a->rawTime)."ème siècle. ';
 
 $string['trad2Greeting'] =	'Welcome to the work of translator $a->numTrad published at $a->time';
 $string['trad2Author'] = 'This text has been written by María del Mar Salvador.';
