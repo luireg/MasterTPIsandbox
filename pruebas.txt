@@ -1,0 +1,11 @@
+Buenas tardes !!
+
+Bienvenidos a la sesión de hoy, lunes 9 de marzo de 2015. Queda muy poco para la llegada de la primavera y para el cambio de hora.
+Empecemos la sesión.
+
+
+Es un buen momento para las presentaciones.
+Vamos a hacer un ejemplo de commit. 
+
+Ya he descargado una nueva. Vuelvo a probar commit
+

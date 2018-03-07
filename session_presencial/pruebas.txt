@@ -1,6 +1,9 @@
 Buenas tardes !!
 
-Bienvenidos a la sesión de hoy, jueves 7 de marzo de 2018. Queda muy poco para la llegada de la primavera y para el cambio de hora.
-Empecemos la sesión.
+Bienvenidos a la sesi¨®n de hoy, jueves 7 de marzo de 2018. Queda muy poco para la llegada de la primavera y para el cambio de hora.
+Empecemos la sesi¨®n.
+
 Una vez más, un cambio adicional.
-Este es un nuevo cambio de Ana R.
+
+Cambios de esta versión son de JP....
+>>>>>>> ddf264a60ace29647882b94c45da78806884cb5c
