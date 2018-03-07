@@ -5,3 +5,5 @@ Empecemos la sesión.
 Bienvenidos todos y todas.
 
 Una vez más, un cambio adicional.
+
+Cambios de esta versión son de JP....
