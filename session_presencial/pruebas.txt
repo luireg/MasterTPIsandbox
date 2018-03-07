@@ -16,4 +16,11 @@ Cristina G.
 Nuevo documento 
 
 Introduzco nuevos cambios porque pruebo
+<<<<<<< HEAD
 >>>>>>> 93572dbddbde77069f57a6d1dc248d1ddbe81596
+=======
+
+No veo cambios de nadie
+>>>>>>> f9cd5cfb2aa62744613c2e16bae6af5861633952
+
+hola soy FU
