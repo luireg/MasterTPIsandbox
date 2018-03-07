@@ -17,3 +17,4 @@ Una vez más, un cambio adicional.
 
 Cambios de esta versión son de JP....
 >>>>>>> ddf264a60ace29647882b94c45da78806884cb5c
+Hola, buenas tardes, creo que ya he entendido el funcionamiento de esto. 
