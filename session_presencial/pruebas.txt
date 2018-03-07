@@ -10,6 +10,12 @@ Cristina G.
 
 Nuevo documento 
 
+<<<<<<< .mine
 Introduzco nuevos cambios porque pruebo
 
 Soy Zhao 
+=======
+Introduzco nuevos cambios porque pruebo
+
+No veo cambios de nadie
+>>>>>>> .theirs
