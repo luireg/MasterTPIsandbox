@@ -12,7 +12,7 @@ $people = new people();
 
 
 echo strftime "On %A ,%B , %G";
-echo "El $people->john drank a $juices[0].".PHP_EOL ;
+echo "$people->john drank a $juices[0].".PHP_EOL ;
 
 
 // Mostrar la frase anterior en inglés
@@ -21,6 +21,6 @@ echo "El $people->john drank a $juices[0].".PHP_EOL ;
 
 // arreglar la siguiente sentencia.
 
-echo 'The bitten "$juices[0]" is the logo of $people->steve';
+echo 'The bitten $juices[0] is the logo of $people->steve';
 
 ?>
