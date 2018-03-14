@@ -12,7 +12,7 @@ $people = new people();
 
 
 
-echo "El $people->john bebió un zumo de $juices[0].".PHP_EOL;
+echo "El $people->john drinks a". "$juices[0]".".PHP_EOL;
 
 
 // Mostrar la frase anterior en inglés
@@ -21,6 +21,6 @@ echo "El $people->john bebió un zumo de $juices[0].".PHP_EOL;
 
 // arreglar la siguiente sentencia.
 
-echo 'La $juices[0] mordida es el símbolo de la compañía de $people->steve';
+echo 'The bitten "$juices[0]" is the logo of $people->steve';
 
 ?>
