@@ -12,7 +12,7 @@ $people = new people();
 
 
 
-echo "El $people->john drinks a". "$juices[0]".".PHP_EOL;
+echo "El $people->john drank a". "$juices[0]".".PHP_EOL;
 
 
 // Mostrar la frase anterior en inglés
