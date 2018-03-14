@@ -12,9 +12,9 @@ $people = new people();
 
 
 
-echo "El $people->john drunk a glass of juice $juices[0].".PHP_EOL;
+echo "El $people->john drunk a glass of juice %A on Friday, %e 2 %G 2011$juices[0].".PHP_EOL;
 
-%A Viernes, %e 2 %G 2011
+
 // Mostrar la frase anterior en inglés
 
 // añadir la fecha al texto con formato largo viernes, 2 de noviembre de 2011
