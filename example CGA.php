@@ -13,7 +13,7 @@ $people = new people();
 
 
 echo "$people->john drank a juice of $juices[0].".PHP_EOL;
-
+echo strftime ("%A, %e %G");
 
 // Mostrar la frase anterior en inglés
 
@@ -21,6 +21,6 @@ echo "$people->john drank a juice of $juices[0].".PHP_EOL;
 
 // arreglar la siguiente sentencia.
 
-echo 'The bitten $juices[0] is the logo of the company of $people->steve';
+echo "A bitten $juices[0] is the logo of the company of $people->steve.";
 
 ?>
