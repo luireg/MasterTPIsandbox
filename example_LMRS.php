@@ -9,14 +9,18 @@ class people {
 	public $steve = "Steve";
 }
 $people = new people();
-echo "El $people->john bebiÃ³ un zumo de $juices[0] el dÃ­a " . strftime ("%A, %e %G") .PHP_EOL;
 
-// Mostrar la frase anterior en inglÃ©s
 
-// aÃ±adir la fecha al texto con formato largo viernes, 2 de noviembre de 2011
+
+echo "El $people->john bebió un zumo de $juices[0].".PHP_EOL;
+
+
+// Mostrar la frase anterior en inglés
+
+// añadir la fecha al texto con formato largo viernes, 2 de noviembre de 2011
 
 // arreglar la siguiente sentencia.
 
-echo 'La $juices[0] mordida es el sÃ­mbolo de la compaÃ±Ã­a de $people->steve';
+echo 'La $juices[0] mordida es el símbolo de la compañía de $people->steve';
 
 ?>
