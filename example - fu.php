@@ -13,6 +13,10 @@ $people = new people();
 
 
 echo "El $people->john drank $juices[0] juice.".PHP_EOL;
+<<<<<<< HEAD
+=======
+echo striftime ("%A, %e %B %G.");
+>>>>>>> 42ffe87dce6d32a75e4aa63336e11b6a92c988b1
 
 
 
