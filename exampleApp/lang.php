@@ -44,9 +44,9 @@ $string['trad2ejemploUno'] = '';
 $string['trad2ejemploDos'] = '';
 $string['trad2ejemploTres'] = '';
 
-$string['trad3Lang'] = '';
-$string['trad3Greeting'] =	'';
-$string['trad3Author'] = '';
+$string['trad3Lang'] = 'en_UK.utf8';
+$string['trad3Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time';
+$string['trad3Author'] = 'Today is ".strftime("%A ,%d of %B of %Y",$a->rawTime)." and the week starts. ';
 $string['trad3FormatDate'] = '';
 $string['trad3NumString'] = '';
 $string['trad3CurrencyString'] = '';
