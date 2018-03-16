@@ -2,7 +2,7 @@
 $string['pageTitle'] = 'Bienvenidos a la página de traducción de PHP';
 
 $string['trad0Lang'] = 'es_ES.utf8';
-$string['trad0Greeting'] =	'Bienvenido al trabajo del traductor $a->numTrad publicado a las $a->time';
+$string['trad0Greeting'] = 'Bienvenido al trabajo del traductor $a->numTrad publicado a las $a->time';
 $string['trad0Author'] = 'Este texto ha sido redactado por Juan Pablo de Castro';
 $string['trad0FormatDate'] = 'Hoy es ".strftime("%A ,%d de %B de %Y",$a->rawTime)." y ya empieza la semana.';
 $string['trad0NumString'] = 'Completar una colección de cromos de la liga cuesta $a->amount €';
@@ -13,13 +13,14 @@ $string['Head_trad0FlagURL'] = 'http://www.banderas-del-mundo.com/Espana/con_esc
 $string['trad0ejemploUno'] = '';
 $string['trad0ejemploDos'] = '';
 $string['trad0ejemploTres'] = '';
+
 /**
  * Crear todas las claves de arriba de forma ordenada y sin estropear el trabajo de los demás compañeros.
  * Está permitido cambiar los textos libremente y experimentar con formas alternativas de conseguir los mismos objetivos.
  * Cuidado con cometer fallos de síntaxis pues se estropeará todo el fichero y no se verá el resultado en la Web.
  */
 $string['trad1Lang'] = 'en_US.utf8';
-$string['trad1Greeting'] =	'Welcome to the work of the translator $ a-> numTrad published at $ a-> time';
+$string['trad1Greeting'] = 'Welcome to the work of the translator $ a-> numTrad published at $ a-> time';
 $string['trad1Author'] = 'This text has been written by Juan Pablo de Castro';
 $string['trad1FormatDate'] = 'Today is ".strftime ("% A,% d of% B of% Y ", $ a-> rawTime)." and the week begins.';
 $string['trad1NumString'] = 'Completing a collection of stickers of the league costs $ a-> amount €';
@@ -32,7 +33,7 @@ $string['trad1ejemploDos'] = '';
 $string['trad1ejemploTres'] = '';
 
 $string['trad2Lang'] = 'en_GB.utf8';
-$string['trad2Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time';
+$string['trad2Greeting'] = 'Welcome to the work of the translator $a->numTrad published at $a->time';
 $string['trad1Author'] = 'This text has been written by Juan Pablo de Castro';
 $string['trad2FormatDate'] = 'Today is ".strftime("%A ,%d of %B, %Y",$a->rawTime)." and the week begins.';
 $string['trad2NumString'] = 'To complete a football ligue cards collection costs $a->amount €';
@@ -45,30 +46,17 @@ $string['trad2ejemploDos'] = 'He was born the ".strftime("%e of %b of %G")."';
 $string['trad2ejemploTres'] = 'I will be dancing with my partners at $a->time';
 
 $string['trad3Lang'] = 'en_UK.utf8';
-$string['trad3Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time';
-<<<<<<< HEAD
+$string['trad3Greeting'] = 'Welcome to the work of the translator $a->numTrad published at $a->time';
 $string['trad3Author'] = 'This text has been written by Cristina García Aguilar';
 $string['trad3FormatDate'] = 'Today is ".strftime("%A ,%d of %B of %Y",$a->rawTime)." and the week starts.';
 $string['trad3NumString'] = 'Completing a league sticker collection costs $a->amount €';
 $string['trad3CurrencyString'] = 'Completing a league sticker collection costs  ".number_format($a->amount,2)." euros.';
 $string['trad3Message'] = 'It could have been done by anyone, but Mr. $a->user_surname has gotten it back. ¡Hurra $a->user_name $a->user_surname!';
-$string['Head_trad3Credits']	= '(C)".strftime("%Y")." Rocío Barragán';
-$string['Head_trad3FlagURL'] = ''http://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif';
+$string['Head_trad3Credits'] = '(C)".strftime("%Y")." Rocío Barragán';
+$string['Head_trad3FlagURL'] = 'http://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif';
 $string['trad3ejemploUno'] = 'Mr. $a->user_surname has an important meeting on ".strftime("%m/%d/%Y")." .';
 $string['trad3ejemploDos'] = 'He earns $a->amount €';
 $string['trad3ejemploTres'] = 'I will see him $a->time';
-=======
-$string['trad3Author'] = 'Today is ".strftime("%A ,%d of %B of %Y",$a->rawTime)." and the week starts. ';
-$string['trad3FormatDate'] = '';
-$string['trad3NumString'] = '';
-$string['trad3CurrencyString'] = '';
-$string['trad3Message'] = '';
-$string['Head_trad3Credits'] = '';
-$string['Head_trad3FlagURL'] = '';
-$string['trad3ejemploUno'] = '';
-$string['trad3ejemploDos'] = '';
-$string['trad3ejemploTres'] = '';
->>>>>>> 9b7dd4545a90e488e23ec65b5822400ae570225b
 
 $string['trad4Lang'] = 'en_GB.utf8';
 $string['trad4Greeting'] = 'Welcome to the work of the translator $a->numTrad published at $a->time';
