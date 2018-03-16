@@ -9,7 +9,7 @@ class people {
 	public $steve = "Steve";
 }
 $people = new people();
-echo "El $people->john bebió un zumo de $juices[0] el día " . strftime ("%A, %e %G") .PHP_EOL;
+echo "El $people->john bebió un zumo de $juices[1] el día " . strftime ("%A, %e %G") .PHP_EOL;
 
 // Mostrar la frase anterior en inglés
 
