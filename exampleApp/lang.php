@@ -18,6 +18,7 @@ $string['trad0ejemploTres'] = '';
  * Está permitido cambiar los textos libremente y experimentar con formas alternativas de conseguir los mismos objetivos.
  * Cuidado con cometer fallos de síntaxis pues se estropeará todo el fichero y no se verá el resultado en la Web.
  */
+<<<<<<< HEAD
 $string['trad1Lang'] = '';
 $string['trad1Greeting'] =	'';
 $string['trad1Author'] = '';
@@ -27,19 +28,30 @@ $string['trad1CurrencyString'] = '';
 $string['trad1Message'] = '';
 $string['Head_trad1Credits'] = '';
 $string['Head_trad1FlagURL'] = '';
+=======
+$string['trad1Lang'] = 'en_US.utf8';
+$string['trad1Greeting'] =	'Welcome to the work of the translator $ a-> numTrad published at $ a-> time';
+$string['trad1Author'] = 'This text has been written by Juan Pablo de Castro';
+$string['trad1FormatDate'] = 'Today is ".strftime ("% A,% d of% B of% Y ", $ a-> rawTime)." and the week begins.';
+$string['trad1NumString'] = 'Completing a collection of stickers of the league costs $ a-> amount €';
+$string['trad1CurrencyString'] = 'Completing a league sticker collection costs ".number_format ($ a-> amount, 2)." euros';
+$string['trad1Message'] = 'I could have done another, but Mr. $ a-> user_surname has done it again. Viva $ a-> user_name $a-> user_surname!';
+$string['Head_trad1Credits']	= '(C)".strftime("%Y")." Juan Pablo de Castro Fernández';
+$string['Head_trad1FlagURL'] = 'http://www.banderas-del-mundo.com/Espana/con_escudo/spain_lc.gif';
+>>>>>>> fe21cd7ef0b7ef75891cac34f5e84d297fbfdc46
 $string['trad1ejemploUno'] = '';
 $string['trad1ejemploDos'] = '';
 $string['trad1ejemploTres'] = '';
 
-$string['trad2Lang'] = '';
-$string['trad2Greeting'] =	'';
-$string['trad1Author'] = '';
-$string['trad2FormatDate'] = '';
-$string['trad2NumString'] = '';
-$string['trad2CurrencyString'] = '';
-$string['trad2Message'] = '';
-$string['Head_trad2Credits']	= '';
-$string['Head_trad2FlagURL'] = '';
+$string['trad2Lang'] = 'en_GB.utf8';
+$string['trad2Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time';
+$string['trad1Author'] = 'This text has been written by Juan Pablo de Castro';
+$string['trad2FormatDate'] = 'Today is ".strftime("%A ,%d of %B, %Y",$a->rawTime)." and the week begins.';';
+$string['trad2NumString'] = 'To complete a ligue cards collection costs $a->amount €';
+$string['trad2CurrencyString'] = 'To complete a ligue cards collection costs".number_format($a->amount,2)." euros.';
+$string['trad2Message'] = 'Other could have done it, but mr $a->user_surname has done it again. ¡Hurrah $a->user_name $a->user_surname!';
+$string['Head_trad2Credits']	= '(C)".strftime("%Y")." Juan Pablo de Castro Fernández';
+$string['Head_trad2FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/inglaterra.gif';
 $string['trad2ejemploUno'] = '';
 $string['trad2ejemploDos'] = '';
 $string['trad2ejemploTres'] = '';
