@@ -46,16 +46,16 @@ $string['trad2ejemploTres'] = '';
 
 $string['trad3Lang'] = 'en_UK.utf8';
 $string['trad3Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time';
-$string['trad3Author'] = 'Today is ".strftime("%A ,%d of %B of %Y",$a->rawTime)." and the week starts. ';
-$string['trad3FormatDate'] = '';
-$string['trad3NumString'] = '';
-$string['trad3CurrencyString'] = '';
-$string['trad3Message'] = '';
-$string['Head_trad3Credits']	= '';
-$string['Head_trad3FlagURL'] = '';
-$string['trad3ejemploUno'] = '';
-$string['trad3ejemploDos'] = '';
-$string['trad3ejemploTres'] = '';
+$string['trad3Author'] = 'This text has been written by Cristina García Aguilar';
+$string['trad3FormatDate'] = 'Today is ".strftime("%A ,%d of %B of %Y",$a->rawTime)." and the week starts.';
+$string['trad3NumString'] = 'Completing a league sticker collection costs $a->amount €';
+$string['trad3CurrencyString'] = 'Completing a league sticker collection costs  ".number_format($a->amount,2)." euros.';
+$string['trad3Message'] = 'It could have been done by anyone, but Mr. $a->user_surname has gotten it back. ¡Hurra $a->user_name $a->user_surname!';
+$string['Head_trad3Credits']	= '(C)".strftime("%Y")." Rocío Barragán';
+$string['Head_trad3FlagURL'] = ''http://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif';
+$string['trad3ejemploUno'] = 'Mr. $a->user_surname has an important meeting on ".strftime("%m/%d/%Y")." .';
+$string['trad3ejemploDos'] = 'He earns $a->amount €';
+$string['trad3ejemploTres'] = 'I will see him $a->time';
 
 $string['trad4Lang'] = 'en_GB.utf8';
 $string['trad4Greeting'] = 'Welcome to the work of the translator $a->numTrad published at $a->time';
