@@ -21,8 +21,12 @@ echo "$people->john drank $juices[0] juice. " . strftime ("%A, %e %B %G.").PHP_E
 
 // arreglar la siguiente sentencia.
 
+<<<<<<< HEAD
+echo 'A $juices[0] bitten is the logo of the company of $people->steve';
+=======
 echo "A bitten $juices[0] is the logo of the company of $people->steve.";
 
 
+>>>>>>> 43eb4bec7b3ef53534faf32138196c76633e14ef
 
 ?>

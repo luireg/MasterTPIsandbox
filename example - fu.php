@@ -12,16 +12,16 @@ $people = new people();
 
 
 
-echo "John drank a glass of juice on".PHP_EOL;
+echo "El $people->john drank $juices[0] juice.".PHP_EOL;
 
-echo strftime("%A %e %G");
 
-// Mostrar la frase anterior en ingl�s
 
-// a�adir la fecha al texto con formato largo viernes, 2 de noviembre de 2011
+// Mostrar la frase anterior en inglés
+
+// añadir la fecha al texto con formato largo viernes, 2 de noviembre de 2011
 
 // arreglar la siguiente sentencia.
 
-echo '. The bitten apple is the symbol of Apple company.';
+echo 'La $juices[0] mordida es el símbolo de la compañía de $people->steve';
 
 ?>
