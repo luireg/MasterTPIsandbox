@@ -57,7 +57,7 @@ $string['trad3ejemploUno'] = '';
 $string['trad3ejemploDos'] = '';
 $string['trad3ejemploTres'] = '';
 
-$string['trad4Lang'] = '';
+$string['trad4Lang'] = 'en_GB.utf8';
 $string['trad4Greeting'] =	'';
 $string['trad4Author'] = '';
 $string['trad4FormatDate'] = '';
