@@ -1,5 +1,5 @@
 <?php
-$juices = array("manzana", "naranga", "koolaid1" => "purple");
+$juices = array("apple", "orange", "koolaid1" => "purple");
 
 class people {
     public $john = "John Smith";
@@ -12,15 +12,17 @@ $people = new people();
 
 
 
-echo "El $people->john bebió un zumo de $juices[0].".PHP_EOL;
+echo "El $people->john drank $juices[0] juice.".PHP_EOL;
+echo striftime ("%A, %e %B %G.");
 
 
-// Mostrar la frase anterior en inglés
 
-// añadir la fecha al texto con formato largo viernes, 2 de noviembre de 2011
+// Mostrar la frase anterior en inglÃ©s
+
+// aÃ±adir la fecha al texto con formato largo viernes, 2 de noviembre de 2011
 
 // arreglar la siguiente sentencia.
 
-echo 'La $juices[0] mordida es el símbolo de la compañía de $people->steve';
+echo 'La $juices[0] mordida es el sÃ­mbolo de la compaÃ±Ã­a de $people->steve';
 
 ?>
