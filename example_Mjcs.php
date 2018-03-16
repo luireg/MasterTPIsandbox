@@ -21,6 +21,6 @@ echo "$people->john drunk a $juices[0] juice on " . strftime ("%A, %B %G") .PHP_
 
 // arreglar la siguiente sentencia.
 
-echo "The bitten $juices[0] is the logo of $people->steve.";
+echo "The bitten $juices[0] is the logo of the company of $people->steve.";
 
 ?>
