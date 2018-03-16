@@ -58,7 +58,7 @@ $string['trad3ejemploDos'] = '';
 $string['trad3ejemploTres'] = '';
 
 $string['trad4Lang'] = 'en_GB.utf8';
-$string['trad4Greeting'] =	'';
+$string['trad4Greeting'] =	'';'Welcome to the work of the translator $a->numTrad published at $a->time';
 $string['trad4Author'] = '';
 $string['trad4FormatDate'] = '';
 $string['trad4NumString'] = '';
