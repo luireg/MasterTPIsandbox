@@ -12,7 +12,7 @@ $people = new people();
 
 
 
-echo "$people->john drunk a $juices[0] juice on " . strftime ("%A, %B %G") .PHP_EOL;
+echo "$people->john drunk a $juices[0] juice on " . strftime ("%A, %B %G.") .PHP_EOL;
 
 
 // Mostrar la frase anterior en inglés
