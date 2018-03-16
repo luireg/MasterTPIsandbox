@@ -14,7 +14,7 @@ $people = new people();
 
 echo "$people->john drank a juice of $juices[0].".PHP_EOL;
 
-echo strftime ("%A, %e de %B de %G"); \n
+echo strftime ("%A, %e de %B de %G");
 
 // Mostrar la frase anterior en inglés
 
