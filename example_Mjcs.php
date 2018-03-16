@@ -11,8 +11,8 @@ class people {
 $people = new people();
 
 
-echo strftime "On %A ,%B , %G";
-echo "$people->john drank a $juices[0].".PHP_EOL ;
+
+echo "El $people->john drank a $juices[0] on " . strftime ("%A, %B %G") .PHP_EOL;
 
 
 // Mostrar la frase anterior en inglés
