@@ -10,9 +10,9 @@ class people {
 }
 $people = new people();
 
+echo strftime("%A on Friday, %e 2 %G 2011");
 
-
-echo "El $people->john drunk a glass of juice echo strftime ("%A on Friday, %e 2 %G 2011") $juices[0].".PHP_EOL;
+echo "El $people->john drunk a glass of juice $juices[0].".PHP_EOL;
 
 
 // Mostrar la frase anterior en inglés
