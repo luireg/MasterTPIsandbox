@@ -10,10 +10,11 @@ class people {
 }
 $people = new people();
 
+
+
+echo "John drank a glass of juice on".PHP_EOL;
+
 echo strftime("%A %e %G");
-
-echo "El $people->john drunk a glass of juice $juices[0].".PHP_EOL;
-
 
 // Mostrar la frase anterior en inglés
 
@@ -21,6 +22,6 @@ echo "El $people->john drunk a glass of juice $juices[0].".PHP_EOL;
 
 // arreglar la siguiente sentencia.
 
-echo 'The bitten $juices[0] is the symbol of Apple $people->steve';
+echo '. The bitten apple is the symbol of Apple company.';
 
 ?>
