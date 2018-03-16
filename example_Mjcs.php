@@ -1,5 +1,5 @@
 <?php
-$juices = array("manzana", "naranga", "koolaid1" => "purple");
+$juices = array("apple", "naranga", "koolaid1" => "purple");
 
 class people {
     public $john = "John Smith";
@@ -12,7 +12,7 @@ $people = new people();
 
 
 
-echo "El $people->john drank a $juices[0] on " . strftime ("%A, %B %G") .PHP_EOL;
+echo " $people->John drank a $juices[0] on " . strftime ("%A, %B %G") .PHP_EOL;
 
 
 // Mostrar la frase anterior en inglés
@@ -21,6 +21,6 @@ echo "El $people->john drank a $juices[0] on " . strftime ("%A, %B %G") .PHP_EOL
 
 // arreglar la siguiente sentencia.
 
-echo "The bitten $juices[0] is the logo of $people->steve";
+echo "The bitten $juices[0] is the logo of $steve->Steve";
 
 ?>
