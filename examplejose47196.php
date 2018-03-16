@@ -10,7 +10,7 @@ class people {
 }
 $people = new people();
 
-echo strftime("%A on Friday, %e 2 %G 2011");
+echo strftime("%A %e %G");
 
 echo "El $people->john drunk a glass of juice $juices[0].".PHP_EOL;
 
