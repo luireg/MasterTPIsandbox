@@ -40,9 +40,9 @@ $string['trad2CurrencyString'] = 'To complete a ligue cards collection costs".nu
 $string['trad2Message'] = 'Other could have done it, but mr $a->user_surname has done it again. ¡Hurrah $a->user_name $a->user_surname!';
 $string['Head_trad2Credits']	= '(C)".strftime("%Y")." Juan Pablo de Castro Fernández';
 $string['Head_trad2FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/inglaterra.gif';
-$string['trad2ejemploUno'] = '';
-$string['trad2ejemploDos'] = '';
-$string['trad2ejemploTres'] = '';
+$string['trad2ejemploUno'] = 'I won $a->amount € in the lottery ';
+$string['trad2ejemploDos'] = 'He was born the ".strftime("%e of %b of %G")." ';
+$string['trad2ejemploTres'] = 'I will see him at $a->time';
 
 $string['trad3Lang'] = 'en_UK.utf8';
 $string['trad3Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time';
