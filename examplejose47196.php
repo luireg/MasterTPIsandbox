@@ -14,7 +14,7 @@ $people = new people();
 
 echo "John drank a glass of juice on".PHP_EOL;
 
-echo strftime("%A %e %G").;
+echo strftime("%A %e %G");
 
 // Mostrar la frase anterior en inglés
 
@@ -22,6 +22,6 @@ echo strftime("%A %e %G").;
 
 // arreglar la siguiente sentencia.
 
-echo 'The bitten apple is the symbol of Apple company.';
+echo '. The bitten apple is the symbol of Apple company.';
 
 ?>
