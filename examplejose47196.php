@@ -10,7 +10,7 @@ class people {
 }
 $people = new people();
 
-echo strftime("%A %e %G"); 
+echo strftime("%A %e %G"); .
 
 echo "$people->john drunk a glass of juice $juices[0].".PHP_EOL;
 
@@ -21,6 +21,6 @@ echo "$people->john drunk a glass of juice $juices[0].".PHP_EOL;
 
 // arreglar la siguiente sentencia.
 
-echo 'The bitten $juices[0] is the symbol of Apple $people->steve';
+echo 'The bitten apple[0] is the symbol of Apple $people->Steve';
 
 ?>
